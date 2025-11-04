@@ -1,0 +1,2983 @@
+
+240 0 obj<</Linearized 1/L 7305192/O 242/E 422009/N 21/T 7300276/H [ 556 781]>>endobj           xref
+240 13
+0000000016 00000 n
+0000001337 00000 n
+0000001451 00000 n
+0000002390 00000 n
+0000002504 00000 n
+0000003065 00000 n
+0000003696 00000 n
+0000003780 00000 n
+0000004277 00000 n
+0000004837 00000 n
+0000008833 00000 n
+0000010048 00000 n
+0000000556 00000 n
+trailer<</Size 253/Root 241 0 R/Info 239 0 R/ID[<8AF4614AD9284B7D8B8DA2EB213DA1F3><E33A4CB1133741A899C557A9B9FB8D16>]/Prev 7300264>>startxref0%%EOF             252 0 obj<</Filter/FlateDecode/I 831/Length 699/S 658>>stream
+h
+
+endstreamendobj241 0 obj<</Lang(en-US)/Metadata 238 0 R/Pages 233 0 R/Type/Catalog/ViewerPreferences<</Direction/L2R>>>>endobj242 0 obj<</ArtBox[0.0 0.0 788.031 595.276]/BleedBox[0.0 0.0 788.031 595.276]/Contents 244 0 R/CropBox[0.0 0.0 788.031 595.276]/MediaBox[0.0 0.0 788.031 595.276]/Parent 234 0 R/PieceInfo<</InDesign<</DocumentID<FEFF0078006D0070002E006400690064003A00370033003100320036003800370064002D0031003300390063002D0034003000330065002D0062003300650066002D003100640061003500390065003200330039003600620035>/LastModified<FEFF0044003A00320030003200300030003900310031003100360035003400350035005A>/NumberofPages 1/OriginalDocumentID<FEFF0078006D0070002E006400690064003A00370033003200310062003000360065002D0062003400370031002D0034003300370039002D0039003100390033002D003100360039003100390031003800630066006600630038>/PageUIDList<</0 20089>>/PageWidthList<</0 788.031>>>>>>/Resources<</ExtGState<</GS0 243 0 R>>/Font<</T1_0 245 0 R>>/ProcSet[/PDF/Text/ImageC]/XObject<</Fm0 250 0 R/Im0 251 0 R>>>>/Rotate 0/TrimBox[0.0 0.0 788.031 595.276]/Type/Page>>endobj243 0 obj<</AIS false/BM/Normal/CA 1.0/OP false/OPM 1/SA true/SMask/None/Type/ExtGState/ca 1.0/op false>>endobj244 0 obj<</Filter/FlateDecode/Length 491>>stream
+H
+
+Yendstreamendobj245 0 obj<</BaseFont/CAZQIS+HelveticaNowMTDisp-XBd/Encoding 246 0 R/FirstChar 31/FontDescriptor 247 0 R/LastChar 201/Subtype/Type1/ToUnicode 248 0 R/Type/Font/Widths[613 232 0 0 0 0 909 717 0 0 0 453 0 0 360 237 0 677 416 618 0 0 0 0 0 628 637 237 0 0 0 0 547 922 732 677 0 734 0 590 0 0 277 0 0 562 898 732 778 665 0 677 650 632 0 0 993 0 0 0 0 0 0 0 0 0 594 602 558 601 584 369 601 583 247 0 580 296 891 583 589 602 0 399 520 364 583 557 858 552 551 0 0 0 0 0 0 0 0 0 0 0 749 0 0 0 0 0 0 0 0 0 0 0 0 225 0 0 413 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 623]>>endobj246 0 obj<</BaseEncoding/WinAnsiEncoding/Differences[31/fi]/Type/Encoding>>endobj247 0 obj<</Ascent 1036/CapHeight 712/CharSet(/fi/space/percent/ampersand/asterisk/hyphen/period/zero/one/two/eight/nine/colon/question/at/A/B/D/F/I/L/M/N/O/P/R/S/T/W/a/b/c/d/e/f/g/h/i/k/l/m/n/o/p/r/s/t/u/v/w/x/y/ellipsis/quoteright/bullet/Eacute)/Descent -324/Flags 32/FontBBox[-368 -324 1285 1036]/FontFamily(Helvetica Now MT Disp XBold)/FontFile3 249 0 R/FontName/CAZQIS+HelveticaNowMTDisp-XBd/FontStretch/Normal/FontWeight 800/ItalicAngle 0/StemV 156/Type/FontDescriptor/XHeight 516>>endobj248 0 obj<</Filter/FlateDecode/Length 490>>stream
+H
+
+xendstreamendobj249 0 obj<</Filter/FlateDecode/Length 3910/Subtype/Type1C>>stream
+H
+
+oendstreamendobj250 0 obj<</BBox[0.0 595.276 788.031 0.0]/Filter/FlateDecode/Length 1029/Matrix[1.0 0.0 0.0 1.0 0.0 0.0]/Resources<</ExtGState<</GS0 243 0 R>>>>/Subtype/Form>>stream
+H
+
+endstreamendobj251 0 obj<</BitsPerComponent 8/ColorSpace/DeviceRGB/Filter/DCTDecode/Height 3622/Intent/RelativeColorimetric/Length 411765/Name/X/Subtype/Image/Type/XObject/Width 2842>>stream
+
+
+!"#$%&'()*123456789:ABCDEFGHIJQRSTUVWXYZabcdefghijqrstuvwxyz
+
+endstreamendobj1 0 obj<</ArtBox[0.0 0.0 788.031 595.276]/BleedBox[0.0 0.0 788.031 595.276]/Contents 2 0 R/CropBox[0.0 0.0 788.031 595.276]/MediaBox[0.0 0.0 788.031 595.276]/Parent 234 0 R/PieceInfo<</InDesign<</DocumentID<FEFF0078006D0070002E006400690064003A00370033003100320036003800370064002D0031003300390063002D0034003000330065002D0062003300650066002D003100640061003500390065003200330039003600620035>/LastModified<FEFF0044003A00320030003200300030003900310031003100360035003400350036005A>/NumberofPages 1/OriginalDocumentID<FEFF0078006D0070002E006400690064003A00370033003200310062003000360065002D0062003400370031002D0034003300370039002D0039003100390033002D003100360039003100390031003800630066006600630038>/PageUIDList<</0 25341>>/PageWidthList<</0 788.031>>>>>>/Resources<</ExtGState<</GS0 243 0 R/GS1 187 0 R>>/Font<</T1_0 245 0 R/T1_1 195 0 R/TT0 197 0 R/TT1 188 0 R>>/ProcSet[/PDF/Text]/XObject<</Fm0 193 0 R/Fm1 194 0 R>>>>/Rotate 0/TrimBox[0.0 0.0 788.031 595.276]/Type/Page>>endobj2 0 obj<</Filter/FlateDecode/Length 678>>stream
+H
+
+endstreamendobj3 0 obj<</Annots 4 0 R/ArtBox[0.0 0.0 788.031 595.276]/BleedBox[0.0 0.0 788.031 595.276]/Contents 6 0 R/CropBox[0.0 0.0 788.031 595.276]/Group 9 0 R/MediaBox[0.0 0.0 788.031 595.276]/Parent 234 0 R/PieceInfo<</InDesign<</DocumentID<FEFF0078006D0070002E006400690064003A00370033003100320036003800370064002D0031003300390063002D0034003000330065002D0062003300650066002D003100640061003500390065003200330039003600620035>/LastModified<FEFF0044003A00320030003200300030003900310031003100360035003400350036005A>/NumberofPages 1/OriginalDocumentID<FEFF0078006D0070002E006400690064003A00370033003200310062003000360065002D0062003400370031002D0034003300370039002D0039003100390033002D003100360039003100390031003800630066006600630038>/PageUIDList<</0 205>>/PageWidthList<</0 788.031>>>>>>/Resources<</ExtGState<</GS0 243 0 R/GS1 187 0 R>>/Font<</T1_0 245 0 R/T1_1 195 0 R/TT0 197 0 R/TT1 188 0 R>>/ProcSet[/PDF/Text/ImageC]/XObject<</Fm0 193 0 R/Fm1 203 0 R/Im0 200 0 R/Im1 7 0 R>>>>/Rotate 0/TrimBox[0.0 0.0 788.031 595.276]/Type/Page>>endobj4 0 obj[5 0 R]endobj5 0 obj<</A 8 0 R/BS<</S/S/Type/Border/W 0>>/Border[0 0 0]/H/N/Rect[40.5252 530.066 114.474 512.463]/Subtype/Link/Type/Annot>>endobj6 0 obj<</Filter/FlateDecode/Length 712>>stream
+H
+
+BYcendstreamendobj7 0 obj<</BitsPerComponent 8/ColorSpace/DeviceRGB/Filter/DCTDecode/Height 1718/Intent/RelativeColorimetric/Length 700185/Name/X/Subtype/Image/Type/XObject/Width 1941>>stream
+
+
+%&'()*56789:DEFGHIJTUVWXYZcdefghijtuvwxyz
+
+endstreamendobj8 0 obj<</IsMap false/S/URI/URI(https://www.loreal.com/en/)>>endobj9 0 obj<</CS/DeviceRGB/S/Transparency/Type/Group>>endobj10 0 obj<</Annots 11 0 R/ArtBox[0.0 0.0 788.031 595.276]/BleedBox[0.0 0.0 788.031 595.276]/Contents 13 0 R/CropBox[0.0 0.0 788.031 595.276]/Group 16 0 R/MediaBox[0.0 0.0 788.031 595.276]/Parent 234 0 R/PieceInfo<</InDesign<</DocumentID<FEFF0078006D0070002E006400690064003A00370033003100320036003800370064002D0031003300390063002D0034003000330065002D0062003300650066002D003100640061003500390065003200330039003600620035>/LastModified<FEFF0044003A00320030003200300030003900310031003100360035003400350037005A>/NumberofPages 1/OriginalDocumentID<FEFF0078006D0070002E006400690064003A00370033003200310062003000360065002D0062003400370031002D0034003300370039002D0039003100390033002D003100360039003100390031003800630066006600630038>/PageUIDList<</0 9179>>/PageWidthList<</0 788.031>>>>>>/Resources<</ExtGState<</GS0 243 0 R/GS1 187 0 R>>/Font<</T1_0 245 0 R/T1_1 195 0 R/TT0 197 0 R/TT1 188 0 R>>/ProcSet[/PDF/Text/ImageC]/XObject<</Fm0 193 0 R/Fm1 203 0 R/Im0 200 0 R/Im1 14 0 R>>>>/Rotate 0/TrimBox[0.0 0.0 788.031 595.276]/Type/Page>>endobj11 0 obj[12 0 R]endobj12 0 obj<</A 15 0 R/BS<</S/S/Type/Border/W 0>>/Border[0 0 0]/H/N/Rect[40.5252 530.066 118.524 512.463]/Subtype/Link/Type/Annot>>endobj13 0 obj<</Filter/FlateDecode/Length 799>>stream
+H
+
+endstreamendobj14 0 obj<</BitsPerComponent 8/ColorSpace/DeviceRGB/Filter/DCTDecode/Height 1820/Intent/RelativeColorimetric/Length 286588/Name/X/Subtype/Image/Type/XObject/Width 2044>>stream
+
+
+$%&'()*56789:CDEFGHIJTUVWXYZbcdefghijtuvwxyz
+
+endstreamendobj15 0 obj<</IsMap false/S/URI/URI(https://www.loreal.com/en/)>>endobj16 0 obj<</CS/DeviceRGB/S/Transparency/Type/Group>>endobj17 0 obj<</ArtBox[0.0 0.0 788.031 595.276]/BleedBox[0.0 0.0 788.031 595.276]/Contents 18 0 R/CropBox[0.0 0.0 788.031 595.276]/MediaBox[0.0 0.0 788.031 595.276]/Parent 234 0 R/PieceInfo<</InDesign<</DocumentID<FEFF0078006D0070002E006400690064003A00370033003100320036003800370064002D0031003300390063002D0034003000330065002D0062003300650066002D003100640061003500390065003200330039003600620035>/LastModified<FEFF0044003A00320030003200300030003900310031003100360035003400350038005A>/NumberofPages 1/OriginalDocumentID<FEFF0078006D0070002E006400690064003A00370033003200310062003000360065002D0062003400370031002D0034003300370039002D0039003100390033002D003100360039003100390031003800630066006600630038>/PageUIDList<</0 9855>>/PageWidthList<</0 788.031>>>>>>/Resources<</ColorSpace<</CS0 206 0 R/CS1 205 0 R>>/ExtGState<</GS0 243 0 R/GS1 187 0 R>>/Font<</T1_0 245 0 R/TT0 197 0 R>>/ProcSet[/PDF/Text/ImageC/ImageI]/XObject<</Fm0 193 0 R/Fm1 203 0 R/Im0 21 0 R/Im1 22 0 R/Im2 23 0 R/Im3 24 0 R>>>>/Rotate 0/TrimBox[0.0 0.0 788.031 595.276]/Type/Page>>endobj18 0 obj<</Filter/FlateDecode/Length 454>>stream
+H
+
+endstreamendobj19 0 obj<</Length 735>>stream
+
+
+~~~}}}|||{{{zzzyyyxxxwwwvvvuuutttsssrrrpppnnnmmmlllkkkjjjiiihhhgggfffeeedddcccbbbaaa```___^^^]]]\\\[[[ZZZXXXWWWVVVUUUTTTSSSRRRQQQPPPOOONNNMMMLLLKKKJJJHHHGGGFFFEEEDDDCCCBBBAAA@@@???>>>===;;;:::999888777666555444333222111000...---,,,+++***)))((('''%%%$$$###"""!!!   
+
+endstreamendobj20 0 obj<</Length 768>>stream
+
+
+~~~}}}|||{{{zzzyyyxxxwwwvvvuuutttsssrrrqqqpppooonnnmmmlllkkkjjjiiihhhgggfffeeedddcccbbbaaa```___^^^]]]\\\[[[ZZZYYYXXXWWWVVVUUUTTTSSSRRRQQQPPPOOONNNMMMLLLKKKJJJIIIHHHGGGFFFEEEDDDCCCBBBAAA@@@???>>>===<<<;;;:::999888777666555444333222111000///...---,,,+++***)))((('''&&&%%%$$$###"""!!!   
+
+endstreamendobj21 0 obj<</BitsPerComponent 8/ColorSpace 206 0 R/Decode[0.0 255.0]/Filter/FlateDecode/Height 856/Intent/RelativeColorimetric/Length 33990/Name/X/Subtype/Image/Type/XObject/Width 1109>>stream
+H
+
+endstreamendobj22 0 obj<</BitsPerComponent 8/ColorSpace/DeviceRGB/Filter/DCTDecode/Height 360/Intent/RelativeColorimetric/Length 72750/Name/X/Subtype/Image/Type/XObject/Width 976>>stream
+
+
+#$%&'()*56789:CDEFGHIJTUVWXYZbcdefghijrtuvwxyz
+
+endstreamendobj23 0 obj<</BitsPerComponent 8/ColorSpace 205 0 R/Decode[0.0 255.0]/Filter/FlateDecode/Height 836/Intent/RelativeColorimetric/Length 242931/Name/X/Subtype/Image/Type/XObject/Width 1381>>stream
+H
+
+endstreamendobj24 0 obj<</BitsPerComponent 8/ColorSpace/DeviceRGB/Filter/DCTDecode/Height 556/Intent/RelativeColorimetric/Length 88852/Name/X/Subtype/Image/Type/XObject/Width 1538>>stream
+
+
+$%&'()*3456789:DEFGHIJTUVWXYZbcdefghijrstuvwxyz
+
+                                                   
+
+R$i@                                                 
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@A
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@AC
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@A
+
+R&y@                                          
+
+}@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@A
+
+                                        
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@A
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@A
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@A
+
+R                                                                   
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@A
+
+                                                                                                      
+
+endstreamendobj25 0 obj<</ArtBox[0.0 0.0 788.031 595.276]/BleedBox[0.0 0.0 788.031 595.276]/Contents 26 0 R/CropBox[0.0 0.0 788.031 595.276]/MediaBox[0.0 0.0 788.031 595.276]/Parent 235 0 R/PieceInfo<</InDesign<</DocumentID<FEFF0078006D0070002E006400690064003A00370033003100320036003800370064002D0031003300390063002D0034003000330065002D0062003300650066002D003100640061003500390065003200330039003600620035>/LastModified<FEFF0044003A00320030003200300030003900310031003100360035003400350039005A>/NumberofPages 1/OriginalDocumentID<FEFF0078006D0070002E006400690064003A00370033003200310062003000360065002D0062003400370031002D0034003300370039002D0039003100390033002D003100360039003100390031003800630066006600630038>/PageUIDList<</0 10526>>/PageWidthList<</0 788.031>>>>>>/Resources<</ExtGState<</GS0 243 0 R/GS1 187 0 R>>/Font<</T1_0 245 0 R/T1_1 195 0 R/T1_2 207 0 R/T1_3 213 0 R/T1_4 212 0 R/T1_5 211 0 R/T1_6 208 0 R/T1_7 210 0 R/T1_8 209 0 R/TT0 197 0 R>>/ProcSet[/PDF/Text]/Properties<</MC0 42 0 R>>/XObject<</Fm0 193 0 R/Fm1 203 0 R>>>>/Rotate 0/TrimBox[0.0 0.0 788.031 595.276]/Type/Page>>endobj26 0 obj<</Filter/FlateDecode/Length 6693>>stream
+H
+
+9endstreamendobj27 0 obj<</Filter/FlateDecode/Length 465/Subtype/Type1C>>stream
+H
+
+endstreamendobj28 0 obj<</Ascent 1159/CapHeight 700/CharSet(/A/C/E/H/I/L/T/V)/Descent -481/Flags 32/FontBBox[-1018 -481 1437 1159]/FontFamily(Helvetica)/FontFile3 27 0 R/FontName/CAZQIS+Helvetica-Bold/FontStretch/Normal/FontWeight 700/ItalicAngle 0/StemV 75/Type/FontDescriptor/XHeight 500>>endobj29 0 obj<</Filter/FlateDecode/Length 2416/Subtype/Type1C>>stream
+H
+
+endstreamendobj30 0 obj<</Ascent 1174/CapHeight 700/CharSet(/space/A/B/C/G/I/L/N/O/S)/Descent -391/Flags 34/FontBBox[-399 -391 1814 1174]/FontFile3 29 0 R/FontName/CAZQIS+BigCaslon-Medium/FontStretch/Normal/FontWeight 500/ItalicAngle 0/StemV 75/Type/FontDescriptor/XHeight 500>>endobj31 0 obj<</Filter/FlateDecode/Length 643/Subtype/Type1C>>stream
+H
+
+endstreamendobj32 0 obj<</Ascent 1131/CapHeight 700/CharSet(/space/A/G/I/L/N/S)/Descent -411/Flags 32/FontBBox[-574 -411 1797 1131]/FontFamily(GillSans)/FontFile3 31 0 R/FontName/CAZQIS+GillSans-Bold/FontStretch/Normal/FontWeight 700/ItalicAngle 0/StemV 75/Type/FontDescriptor/XHeight 500>>endobj33 0 obj<</Filter/FlateDecode/Length 904/Subtype/Type1C>>stream
+H
+
+endstreamendobj34 0 obj<</Ascent 925/CapHeight 700/CharSet(/space/D/E/I/N/T/X)/Descent -238/Flags 32/FontBBox[-170 -238 1076 925]/FontFile3 33 0 R/FontName/CAZQIS+DINNextLTPro-Bold/FontStretch/Normal/FontWeight 700/ItalicAngle 0/StemV 75/Type/FontDescriptor/XHeight 500>>endobj35 0 obj<</Filter/FlateDecode/Length 778/Subtype/Type1C>>stream
+H
+
+endstreamendobj36 0 obj<</Ascent 1011/CapHeight 700/CharSet(/C/E/K/L/O/R/W)/Descent -255/Flags 32/FontBBox[-206 -255 1776 1011]/FontFamily(Rockwell)/FontFile3 35 0 R/FontName/CAZQIS+Rockwell-Bold/FontStretch/Normal/FontWeight 700/ItalicAngle 0/StemV 75/Type/FontDescriptor/XHeight 500>>endobj37 0 obj<</Filter/FlateDecode/Length 898/Subtype/Type1C>>stream
+H
+
+\endstreamendobj38 0 obj<</Ascent 986/CapHeight 718/CharSet(/space/C/E/G/H/I/N/O/R/T/U/Y)/Descent -220/Flags 32/FontBBox[-115 -220 1260 986]/FontFile3 37 0 R/FontName/CAZQIS+CenturyGothicPro-Bold/FontStretch/Normal/FontWeight 700/ItalicAngle 0/StemV 75/Type/FontDescriptor/XHeight 500>>endobj39 0 obj<</Filter/FlateDecode/Length 678/Subtype/Type1C>>stream
+H
+
+H0endstreamendobj40 0 obj<</Ascent 946/CapHeight 700/CharSet(/D/I/O/T)/Descent -299/Flags 34/FontBBox[-293 -299 1300 946]/FontFile3 39 0 R/FontName/CAZQIS+Didot/FontStretch/Normal/FontWeight 400/ItalicAngle 0/StemV 75/Type/FontDescriptor/XHeight 500>>endobj41 0 obj<</Length 33963/Subtype/XML/Type/Metadata>>stream
+<?xpacket begin="
+
+" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 6.0-c002 79.164460, 2020/05/12-16:04:17        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+            xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+            xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"
+            xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+            xmlns:illustrator="http://ns.adobe.com/illustrator/1.0/"
+            xmlns:xmpTPg="http://ns.adobe.com/xap/1.0/t/pg/"
+            xmlns:stDim="http://ns.adobe.com/xap/1.0/sType/Dimensions#"
+            xmlns:stFnt="http://ns.adobe.com/xap/1.0/sType/Font#"
+            xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/"
+            xmlns:pdf="http://ns.adobe.com/pdf/1.3/"
+            xmlns:pdfx="http://ns.adobe.com/pdfx/1.3/">
+         <dc:format>application/postscript</dc:format>
+         <dc:title>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">Web</rdf:li>
+            </rdf:Alt>
+         </dc:title>
+         <dc:creator>
+            <rdf:Seq>
+               <rdf:li>Gretchen Walker</rdf:li>
+            </rdf:Seq>
+         </dc:creator>
+         <xmp:CreatorTool>Adobe Illustrator 24.2 (Macintosh)</xmp:CreatorTool>
+         <xmp:CreateDate>2020-08-31T10:12:26-04:00</xmp:CreateDate>
+         <xmp:ModifyDate>2020-08-31T10:12:26-04:00</xmp:ModifyDate>
+         <xmp:MetadataDate>2020-08-31T10:12:26-04:00</xmp:MetadataDate>
+         <xmpMM:RenditionClass>proof:pdf</xmpMM:RenditionClass>
+         <xmpMM:OriginalDocumentID>uuid:65E6390686CF11DBA6E2D887CEACB407</xmpMM:OriginalDocumentID>
+         <xmpMM:DocumentID>xmp.did:60b98ea0-7a31-4ee4-8515-cc1193f3447b</xmpMM:DocumentID>
+         <xmpMM:InstanceID>xmp.iid:60b98ea0-7a31-4ee4-8515-cc1193f3447b</xmpMM:InstanceID>
+         <xmpMM:DerivedFrom rdf:parseType="Resource">
+            <stRef:instanceID>uuid:27f584af-a488-9349-a64a-b29a9af20ed9</stRef:instanceID>
+            <stRef:documentID>xmp.did:8d08eb9c-7571-4e78-aade-d88bdc677e5e</stRef:documentID>
+            <stRef:originalDocumentID>uuid:65E6390686CF11DBA6E2D887CEACB407</stRef:originalDocumentID>
+            <stRef:renditionClass>proof:pdf</stRef:renditionClass>
+         </xmpMM:DerivedFrom>
+         <xmpMM:History>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:60b98ea0-7a31-4ee4-8515-cc1193f3447b</stEvt:instanceID>
+                  <stEvt:when>2020-08-31T10:12:26-04:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator 24.2 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+            </rdf:Seq>
+         </xmpMM:History>
+         <illustrator:StartupProfile>Web</illustrator:StartupProfile>
+         <xmpTPg:NPages>1</xmpTPg:NPages>
+         <xmpTPg:HasVisibleTransparency>False</xmpTPg:HasVisibleTransparency>
+         <xmpTPg:HasVisibleOverprint>False</xmpTPg:HasVisibleOverprint>
+         <xmpTPg:MaxPageSize rdf:parseType="Resource">
+            <stDim:w>11.000000</stDim:w>
+            <stDim:h>8.500000</stDim:h>
+            <stDim:unit>Inches</stDim:unit>
+         </xmpTPg:MaxPageSize>
+         <xmpTPg:Fonts>
+            <rdf:Bag>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>Rockwell-Bold</stFnt:fontName>
+                  <stFnt:fontFamily>Rockwell</stFnt:fontFamily>
+                  <stFnt:fontFace>Bold</stFnt:fontFace>
+                  <stFnt:fontType>Open Type</stFnt:fontType>
+                  <stFnt:versionString>13.0d2e1</stFnt:versionString>
+                  <stFnt:composite>False</stFnt:composite>
+                  <stFnt:fontFileName>Rockwell.ttc</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>GillSans-Bold</stFnt:fontName>
+                  <stFnt:fontFamily>Gill Sans</stFnt:fontFamily>
+                  <stFnt:fontFace>Bold</stFnt:fontFace>
+                  <stFnt:fontType>TrueType</stFnt:fontType>
+                  <stFnt:versionString>13.0d1e4</stFnt:versionString>
+                  <stFnt:composite>False</stFnt:composite>
+                  <stFnt:fontFileName>GillSans.ttc</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>DINNextLTPro-Bold</stFnt:fontName>
+                  <stFnt:fontFamily>DIN Next LT Pro</stFnt:fontFamily>
+                  <stFnt:fontFace>Bold</stFnt:fontFace>
+                  <stFnt:fontType>Open Type</stFnt:fontType>
+                  <stFnt:versionString>Version 1.40</stFnt:versionString>
+                  <stFnt:composite>False</stFnt:composite>
+                  <stFnt:fontFileName>981.ttf</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>BigCaslon-Medium</stFnt:fontName>
+                  <stFnt:fontFamily>Big Caslon</stFnt:fontFamily>
+                  <stFnt:fontFace>Medium</stFnt:fontFace>
+                  <stFnt:fontType>TrueType</stFnt:fontType>
+                  <stFnt:versionString>13.0d1e11</stFnt:versionString>
+                  <stFnt:composite>False</stFnt:composite>
+                  <stFnt:fontFileName>BigCaslon.ttf</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>Helvetica-Bold</stFnt:fontName>
+                  <stFnt:fontFamily>Helvetica</stFnt:fontFamily>
+                  <stFnt:fontFace>Bold</stFnt:fontFace>
+                  <stFnt:fontType>TrueType</stFnt:fontType>
+                  <stFnt:versionString>15.0d1e3</stFnt:versionString>
+                  <stFnt:composite>False</stFnt:composite>
+                  <stFnt:fontFileName>Helvetica.ttc</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>Didot</stFnt:fontName>
+                  <stFnt:fontFamily>Didot</stFnt:fontFamily>
+                  <stFnt:fontFace>Regular</stFnt:fontFace>
+                  <stFnt:fontType>TrueType</stFnt:fontType>
+                  <stFnt:versionString>13.0d1e3</stFnt:versionString>
+                  <stFnt:composite>False</stFnt:composite>
+                  <stFnt:fontFileName>Didot.ttc</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>CenturyGothicPro-Bold</stFnt:fontName>
+                  <stFnt:fontFamily>Century Gothic Pro</stFnt:fontFamily>
+                  <stFnt:fontFace>Bold</stFnt:fontFace>
+                  <stFnt:fontType>Open Type</stFnt:fontType>
+                  <stFnt:versionString>Version 1.004;PS 001.000;Core 1.0.38;makeotf.lib1.6.5960</stFnt:versionString>
+                  <stFnt:composite>False</stFnt:composite>
+                  <stFnt:fontFileName>138.otf</stFnt:fontFileName>
+               </rdf:li>
+            </rdf:Bag>
+         </xmpTPg:Fonts>
+         <xmpTPg:PlateNames>
+            <rdf:Seq>
+               <rdf:li>Cyan</rdf:li>
+               <rdf:li>Magenta</rdf:li>
+               <rdf:li>Yellow</rdf:li>
+               <rdf:li>Black</rdf:li>
+            </rdf:Seq>
+         </xmpTPg:PlateNames>
+         <xmpTPg:SwatchGroups>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpG:groupName>Default Swatch Group</xmpG:groupName>
+                  <xmpG:groupType>0</xmpG:groupType>
+                  <xmpG:Colorants>
+                     <rdf:Seq>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>White</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>255</xmpG:red>
+                           <xmpG:green>255</xmpG:green>
+                           <xmpG:blue>255</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>Black</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>0</xmpG:red>
+                           <xmpG:green>0</xmpG:green>
+                           <xmpG:blue>0</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>RGB Red</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>255</xmpG:red>
+                           <xmpG:green>0</xmpG:green>
+                           <xmpG:blue>0</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>RGB Yellow</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>255</xmpG:red>
+                           <xmpG:green>255</xmpG:green>
+                           <xmpG:blue>0</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>RGB Green</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>0</xmpG:red>
+                           <xmpG:green>255</xmpG:green>
+                           <xmpG:blue>0</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>RGB Cyan</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>0</xmpG:red>
+                           <xmpG:green>255</xmpG:green>
+                           <xmpG:blue>255</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>RGB Blue</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>0</xmpG:red>
+                           <xmpG:green>0</xmpG:green>
+                           <xmpG:blue>255</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>RGB Magenta</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>255</xmpG:red>
+                           <xmpG:green>0</xmpG:green>
+                           <xmpG:blue>255</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=193 G=39 B=45</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>193</xmpG:red>
+                           <xmpG:green>39</xmpG:green>
+                           <xmpG:blue>45</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=237 G=28 B=36</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>237</xmpG:red>
+                           <xmpG:green>28</xmpG:green>
+                           <xmpG:blue>36</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=241 G=90 B=36</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>241</xmpG:red>
+                           <xmpG:green>90</xmpG:green>
+                           <xmpG:blue>36</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=247 G=147 B=30</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>247</xmpG:red>
+                           <xmpG:green>147</xmpG:green>
+                           <xmpG:blue>30</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=251 G=176 B=59</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>251</xmpG:red>
+                           <xmpG:green>176</xmpG:green>
+                           <xmpG:blue>59</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=252 G=238 B=33</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>252</xmpG:red>
+                           <xmpG:green>238</xmpG:green>
+                           <xmpG:blue>33</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=217 G=224 B=33</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>217</xmpG:red>
+                           <xmpG:green>224</xmpG:green>
+                           <xmpG:blue>33</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=140 G=198 B=63</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>140</xmpG:red>
+                           <xmpG:green>198</xmpG:green>
+                           <xmpG:blue>63</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=57 G=181 B=74</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>57</xmpG:red>
+                           <xmpG:green>181</xmpG:green>
+                           <xmpG:blue>74</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=0 G=146 B=69</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>0</xmpG:red>
+                           <xmpG:green>146</xmpG:green>
+                           <xmpG:blue>69</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=0 G=104 B=55</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>0</xmpG:red>
+                           <xmpG:green>104</xmpG:green>
+                           <xmpG:blue>55</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=34 G=181 B=115</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>34</xmpG:red>
+                           <xmpG:green>181</xmpG:green>
+                           <xmpG:blue>115</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=0 G=169 B=157</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>0</xmpG:red>
+                           <xmpG:green>169</xmpG:green>
+                           <xmpG:blue>157</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=41 G=171 B=226</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>41</xmpG:red>
+                           <xmpG:green>171</xmpG:green>
+                           <xmpG:blue>226</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=0 G=113 B=188</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>0</xmpG:red>
+                           <xmpG:green>113</xmpG:green>
+                           <xmpG:blue>188</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=46 G=49 B=146</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>46</xmpG:red>
+                           <xmpG:green>49</xmpG:green>
+                           <xmpG:blue>146</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=27 G=20 B=100</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>27</xmpG:red>
+                           <xmpG:green>20</xmpG:green>
+                           <xmpG:blue>100</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=102 G=45 B=145</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>102</xmpG:red>
+                           <xmpG:green>45</xmpG:green>
+                           <xmpG:blue>145</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=147 G=39 B=143</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>147</xmpG:red>
+                           <xmpG:green>39</xmpG:green>
+                           <xmpG:blue>143</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=158 G=0 B=93</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>158</xmpG:red>
+                           <xmpG:green>0</xmpG:green>
+                           <xmpG:blue>93</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=212 G=20 B=90</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>212</xmpG:red>
+                           <xmpG:green>20</xmpG:green>
+                           <xmpG:blue>90</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=237 G=30 B=121</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>237</xmpG:red>
+                           <xmpG:green>30</xmpG:green>
+                           <xmpG:blue>121</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=199 G=178 B=153</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>199</xmpG:red>
+                           <xmpG:green>178</xmpG:green>
+                           <xmpG:blue>153</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=153 G=134 B=117</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>153</xmpG:red>
+                           <xmpG:green>134</xmpG:green>
+                           <xmpG:blue>117</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=115 G=99 B=87</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>115</xmpG:red>
+                           <xmpG:green>99</xmpG:green>
+                           <xmpG:blue>87</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=83 G=71 B=65</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>83</xmpG:red>
+                           <xmpG:green>71</xmpG:green>
+                           <xmpG:blue>65</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=198 G=156 B=109</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>198</xmpG:red>
+                           <xmpG:green>156</xmpG:green>
+                           <xmpG:blue>109</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=166 G=124 B=82</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>166</xmpG:red>
+                           <xmpG:green>124</xmpG:green>
+                           <xmpG:blue>82</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=140 G=98 B=57</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>140</xmpG:red>
+                           <xmpG:green>98</xmpG:green>
+                           <xmpG:blue>57</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=117 G=76 B=36</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>117</xmpG:red>
+                           <xmpG:green>76</xmpG:green>
+                           <xmpG:blue>36</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=96 G=56 B=19</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>96</xmpG:red>
+                           <xmpG:green>56</xmpG:green>
+                           <xmpG:blue>19</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=66 G=33 B=11</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>66</xmpG:red>
+                           <xmpG:green>33</xmpG:green>
+                           <xmpG:blue>11</xmpG:blue>
+                        </rdf:li>
+                     </rdf:Seq>
+                  </xmpG:Colorants>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpG:groupName>Grays</xmpG:groupName>
+                  <xmpG:groupType>1</xmpG:groupType>
+                  <xmpG:Colorants>
+                     <rdf:Seq>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=0 G=0 B=0</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>0</xmpG:red>
+                           <xmpG:green>0</xmpG:green>
+                           <xmpG:blue>0</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=26 G=26 B=26</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>26</xmpG:red>
+                           <xmpG:green>26</xmpG:green>
+                           <xmpG:blue>26</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=51 G=51 B=51</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>51</xmpG:red>
+                           <xmpG:green>51</xmpG:green>
+                           <xmpG:blue>51</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=77 G=77 B=77</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>77</xmpG:red>
+                           <xmpG:green>77</xmpG:green>
+                           <xmpG:blue>77</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=102 G=102 B=102</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>102</xmpG:red>
+                           <xmpG:green>102</xmpG:green>
+                           <xmpG:blue>102</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=128 G=128 B=128</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>128</xmpG:red>
+                           <xmpG:green>128</xmpG:green>
+                           <xmpG:blue>128</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=153 G=153 B=153</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>153</xmpG:red>
+                           <xmpG:green>153</xmpG:green>
+                           <xmpG:blue>153</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=179 G=179 B=179</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>179</xmpG:red>
+                           <xmpG:green>179</xmpG:green>
+                           <xmpG:blue>179</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=204 G=204 B=204</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>204</xmpG:red>
+                           <xmpG:green>204</xmpG:green>
+                           <xmpG:blue>204</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=230 G=230 B=230</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>230</xmpG:red>
+                           <xmpG:green>230</xmpG:green>
+                           <xmpG:blue>230</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=242 G=242 B=242</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>242</xmpG:red>
+                           <xmpG:green>242</xmpG:green>
+                           <xmpG:blue>242</xmpG:blue>
+                        </rdf:li>
+                     </rdf:Seq>
+                  </xmpG:Colorants>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpG:groupName>Web Color Group</xmpG:groupName>
+                  <xmpG:groupType>1</xmpG:groupType>
+                  <xmpG:Colorants>
+                     <rdf:Seq>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=63 G=169 B=245</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>63</xmpG:red>
+                           <xmpG:green>169</xmpG:green>
+                           <xmpG:blue>245</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=122 G=201 B=67</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>122</xmpG:red>
+                           <xmpG:green>201</xmpG:green>
+                           <xmpG:blue>67</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=255 G=147 B=30</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>255</xmpG:red>
+                           <xmpG:green>147</xmpG:green>
+                           <xmpG:blue>30</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=255 G=29 B=37</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>255</xmpG:red>
+                           <xmpG:green>29</xmpG:green>
+                           <xmpG:blue>37</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=255 G=123 B=172</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>255</xmpG:red>
+                           <xmpG:green>123</xmpG:green>
+                           <xmpG:blue>172</xmpG:blue>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>R=189 G=204 B=212</xmpG:swatchName>
+                           <xmpG:mode>RGB</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:red>189</xmpG:red>
+                           <xmpG:green>204</xmpG:green>
+                           <xmpG:blue>212</xmpG:blue>
+                        </rdf:li>
+                     </rdf:Seq>
+                  </xmpG:Colorants>
+               </rdf:li>
+            </rdf:Seq>
+         </xmpTPg:SwatchGroups>
+         <pdf:Producer>Adobe PDF library 15.00</pdf:Producer>
+         <pdfx:CreatorVersion>21.0.0</pdfx:CreatorVersion>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+<?xpacket end="r"?>endstreamendobj42 0 obj<</Metadata 41 0 R>>endobj43 0 obj<</ArtBox[0.0 0.0 788.031 595.276]/BleedBox[0.0 0.0 788.031 595.276]/Contents 44 0 R/CropBox[0.0 0.0 788.031 595.276]/MediaBox[0.0 0.0 788.031 595.276]/Parent 235 0 R/PieceInfo<</InDesign<</DocumentID<FEFF0078006D0070002E006400690064003A00370033003100320036003800370064002D0031003300390063002D0034003000330065002D0062003300650066002D003100640061003500390065003200330039003600620035>/LastModified<FEFF0044003A00320030003200300030003900310031003100360035003400350039005A>/NumberofPages 1/OriginalDocumentID<FEFF0078006D0070002E006400690064003A00370033003200310062003000360065002D0062003400370031002D0034003300370039002D0039003100390033002D003100360039003100390031003800630066006600630038>/PageUIDList<</0 13957>>/PageWidthList<</0 788.031>>>>>>/Resources<</ExtGState<</GS0 243 0 R/GS1 187 0 R>>/Font<</T1_0 245 0 R/T1_1 214 0 R/TT0 197 0 R>>/ProcSet[/PDF/Text]/XObject<</Fm0 193 0 R/Fm1 203 0 R>>>>/Rotate 0/TrimBox[0.0 0.0 788.031 595.276]/Type/Page>>endobj44 0 obj<</Filter/FlateDecode/Length 282>>stream
+H
+
+endstreamendobj45 0 obj<</BaseEncoding/WinAnsiEncoding/Differences[30/a.ss02/l.ss08]/Type/Encoding>>endobj46 0 obj<</Filter/FlateDecode/Length 1359/Subtype/Type1C>>stream
+H
+
+endstreamendobj47 0 obj<</Ascent 1049/CapHeight 712/CharSet(/a.ss02/l.ss08/space/exclam/O/e/f/g/h/i/n/o/p/r/t/u/v/w/y)/Descent -342/Flags 32/FontBBox[-368 -342 1285 1049]/FontFamily(Helvetica Now Display XBold)/FontFile3 46 0 R/FontName/CAZQIS+HelveticaNowDisplay-XBd/FontStretch/Normal/FontWeight 800/ItalicAngle 0/StemV 156/Type/FontDescriptor/XHeight 516>>endobj48 0 obj<</Filter/FlateDecode/Length 316>>stream
+H
+
+endstreamendobj49 0 obj<</ArtBox[0.0 0.0 788.031 595.276]/BleedBox[0.0 0.0 788.031 595.276]/Contents 50 0 R/CropBox[0.0 0.0 788.031 595.276]/MediaBox[0.0 0.0 788.031 595.276]/Parent 235 0 R/PieceInfo<</InDesign<</DocumentID<FEFF0078006D0070002E006400690064003A00370033003100320036003800370064002D0031003300390063002D0034003000330065002D0062003300650066002D003100640061003500390065003200330039003600620035>/LastModified<FEFF0044003A00320030003200300030003900310031003100360035003400350039005A>/NumberofPages 1/OriginalDocumentID<FEFF0078006D0070002E006400690064003A00370033003200310062003000360065002D0062003400370031002D0034003300370039002D0039003100390033002D003100360039003100390031003800630066006600630038>/PageUIDList<</0 2075>>/PageWidthList<</0 788.031>>>>>>/Resources<</ExtGState<</GS0 243 0 R/GS1 187 0 R>>/Font<</T1_0 245 0 R/TT0 197 0 R>>/ProcSet[/PDF/Text/ImageC]/XObject<</Fm0 193 0 R/Fm1 203 0 R/Im0 52 0 R/Im1 54 0 R>>>>/Rotate 0/TrimBox[0.0 0.0 788.031 595.276]/Type/Page>>endobj50 0 obj<</Filter/FlateDecode/Length 397>>stream
+H
+
+endstreamendobj51 0 obj<</Length 1630/Subtype/XML/Type/Metadata>>stream
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 6.0-c002 79.164460, 2020/05/12-16:04:17        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+    xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:tiff="http://ns.adobe.com/tiff/1.0/"
+    xmlns:exif="http://ns.adobe.com/exif/1.0/"
+   xmp:CreatorTool="Adobe Photoshop 21.2 (Macintosh)"
+   xmp:CreateDate="2020-08-31T10:19:11-04:00"
+   xmp:MetadataDate="2020-08-31T10:19:11-04:00"
+   xmp:ModifyDate="2020-08-31T10:19:11-04:00"
+   dc:format="application/vnd.adobe.photoshop"
+   xmpMM:InstanceID="xmp.iid:b9a72c40-21f2-4acb-b4e0-b70d6c6404b6"
+   xmpMM:DocumentID="xmp.did:b9a72c40-21f2-4acb-b4e0-b70d6c6404b6"
+   xmpMM:OriginalDocumentID="xmp.did:b9a72c40-21f2-4acb-b4e0-b70d6c6404b6"
+   photoshop:ColorMode="3"
+   photoshop:ICCProfile="Display P3"
+   tiff:Orientation="1"
+   tiff:XResolution="1440000/10000"
+   tiff:YResolution="1440000/10000"
+   tiff:ResolutionUnit="2"
+   exif:ColorSpace="65535"
+   exif:PixelXDimension="652"
+   exif:PixelYDimension="1058">
+   <xmpMM:History>
+    <rdf:Seq>
+     <rdf:li
+      stEvt:action="created"
+      stEvt:instanceID="xmp.iid:b9a72c40-21f2-4acb-b4e0-b70d6c6404b6"
+      stEvt:when="2020-08-31T10:19:11-04:00"
+      stEvt:softwareAgent="Adobe Photoshop 21.2 (Macintosh)"/>
+    </rdf:Seq>
+   </xmpMM:History>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>
+endstreamendobj52 0 obj<</BitsPerComponent 8/ColorSpace/DeviceRGB/Filter/DCTDecode/Height 1058/Intent/RelativeColorimetric/Length 100566/Metadata 51 0 R/Name/X/Subtype/Image/Type/XObject/Width 652>>stream
+
+
+#$%&'()*3456789:BCDEFGHIJSTUVWXYZcdefghijrstuvwxyz
+
+endstreamendobj53 0 obj<</Length 1873/Subtype/XML/Type/Metadata>>stream
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 6.0-c002 79.164460, 2020/05/12-16:04:17        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+    xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:tiff="http://ns.adobe.com/tiff/1.0/"
+    xmlns:exif="http://ns.adobe.com/exif/1.0/"
+   xmp:CreatorTool="Adobe Photoshop 21.2 (Macintosh)"
+   xmp:CreateDate="2020-08-31T10:19:49-04:00"
+   xmp:MetadataDate="2020-08-31T16:51:08-04:00"
+   xmp:ModifyDate="2020-08-31T16:51:08-04:00"
+   dc:format="application/vnd.adobe.photoshop"
+   xmpMM:InstanceID="xmp.iid:d0a74915-9138-4d5b-8e7f-fa98913bac94"
+   xmpMM:DocumentID="xmp.did:2a5b7972-c6be-424b-a863-f1b07d15bac2"
+   xmpMM:OriginalDocumentID="xmp.did:2a5b7972-c6be-424b-a863-f1b07d15bac2"
+   photoshop:ColorMode="3"
+   photoshop:ICCProfile="Display P3"
+   tiff:Orientation="1"
+   tiff:XResolution="1440000/10000"
+   tiff:YResolution="1440000/10000"
+   tiff:ResolutionUnit="2"
+   exif:ColorSpace="65535"
+   exif:PixelXDimension="2372"
+   exif:PixelYDimension="1276">
+   <xmpMM:History>
+    <rdf:Seq>
+     <rdf:li
+      stEvt:action="created"
+      stEvt:instanceID="xmp.iid:2a5b7972-c6be-424b-a863-f1b07d15bac2"
+      stEvt:when="2020-08-31T10:19:49-04:00"
+      stEvt:softwareAgent="Adobe Photoshop 21.2 (Macintosh)"/>
+     <rdf:li
+      stEvt:action="saved"
+      stEvt:instanceID="xmp.iid:d0a74915-9138-4d5b-8e7f-fa98913bac94"
+      stEvt:when="2020-08-31T16:51:08-04:00"
+      stEvt:softwareAgent="Adobe Photoshop 21.2 (Macintosh)"
+      stEvt:changed="/"/>
+    </rdf:Seq>
+   </xmpMM:History>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>
+endstreamendobj54 0 obj<</BitsPerComponent 8/ColorSpace/DeviceRGB/Filter/DCTDecode/Height 1276/Intent/RelativeColorimetric/Length 222549/Metadata 53 0 R/Name/X/Subtype/Image/Type/XObject/Width 2372>>stream
+
+
+$%&'()*456789:CDEFGHIJRSTUVWXYZbcdefghijrstuvwxyz
+
+endstreamendobj55 0 obj<</ArtBox[0.0 0.0 788.031 595.276]/BleedBox[0.0 0.0 788.031 595.276]/Contents 56 0 R/CropBox[0.0 0.0 788.031 595.276]/Group 71 0 R/MediaBox[0.0 0.0 788.031 595.276]/Parent 235 0 R/PieceInfo<</InDesign<</DocumentID<FEFF0078006D0070002E006400690064003A00370033003100320036003800370064002D0031003300390063002D0034003000330065002D0062003300650066002D003100640061003500390065003200330039003600620035>/LastModified<FEFF0044003A00320030003200300030003900310031003100360035003400350039005A>/NumberofPages 1/OriginalDocumentID<FEFF0078006D0070002E006400690064003A00370033003200310062003000360065002D0062003400370031002D0034003300370039002D0039003100390033002D003100360039003100390031003800630066006600630038>/PageUIDList<</0 3979>>/PageWidthList<</0 788.031>>>>>>/Resources<</ExtGState<</GS0 243 0 R/GS1 187 0 R>>/Font<</T1_0 245 0 R/TT0 197 0 R>>/ProcSet[/PDF/Text/ImageC]/XObject<</Fm0 193 0 R/Fm1 203 0 R/Im0 58 0 R/Im1 58 0 R/Im2 58 0 R/Im3 62 0 R/Im4 66 0 R/Im5 70 0 R>>>>/Rotate 0/TrimBox[0.0 0.0 788.031 595.276]/Type/Page>>endobj56 0 obj<</Filter/FlateDecode/Length 482>>stream
+H
+
+&endstreamendobj57 0 obj<</Length 1630/Subtype/XML/Type/Metadata>>stream
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 6.0-c002 79.164460, 2020/05/12-16:04:17        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+    xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:tiff="http://ns.adobe.com/tiff/1.0/"
+    xmlns:exif="http://ns.adobe.com/exif/1.0/"
+   xmp:CreatorTool="Adobe Photoshop 21.2 (Macintosh)"
+   xmp:CreateDate="2020-08-31T10:16:52-04:00"
+   xmp:MetadataDate="2020-08-31T10:16:52-04:00"
+   xmp:ModifyDate="2020-08-31T10:16:52-04:00"
+   dc:format="application/vnd.adobe.photoshop"
+   xmpMM:InstanceID="xmp.iid:5ffbe9b0-0523-4f22-9e77-bb696dc7a0d2"
+   xmpMM:DocumentID="xmp.did:5ffbe9b0-0523-4f22-9e77-bb696dc7a0d2"
+   xmpMM:OriginalDocumentID="xmp.did:5ffbe9b0-0523-4f22-9e77-bb696dc7a0d2"
+   photoshop:ColorMode="3"
+   photoshop:ICCProfile="Display P3"
+   tiff:Orientation="1"
+   tiff:XResolution="1440000/10000"
+   tiff:YResolution="1440000/10000"
+   tiff:ResolutionUnit="2"
+   exif:ColorSpace="65535"
+   exif:PixelXDimension="912"
+   exif:PixelYDimension="1480">
+   <xmpMM:History>
+    <rdf:Seq>
+     <rdf:li
+      stEvt:action="created"
+      stEvt:instanceID="xmp.iid:5ffbe9b0-0523-4f22-9e77-bb696dc7a0d2"
+      stEvt:when="2020-08-31T10:16:52-04:00"
+      stEvt:softwareAgent="Adobe Photoshop 21.2 (Macintosh)"/>
+    </rdf:Seq>
+   </xmpMM:History>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>
+endstreamendobj58 0 obj<</BitsPerComponent 8/ColorSpace/DeviceRGB/Filter/DCTDecode/Height 1480/Intent/RelativeColorimetric/Length 52965/Metadata 57 0 R/Name/X/Subtype/Image/Type/XObject/Width 912>>stream
+
+
+!"#$%&'()*123456789:ABCDEFGHIJQRSTUVWXYZabcdefghijqrstuvwxyz
+
+endstreamendobj59 0 obj<</Length 492/Subtype/XML/Type/Metadata>>stream
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 6.0-c002 79.164460, 2020/05/12-16:04:17        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:exif="http://ns.adobe.com/exif/1.0/"
+   exif:PixelXDimension="671"
+   exif:PixelYDimension="1351">
+   <exif:UserComment>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">Screenshot</rdf:li>
+    </rdf:Alt>
+   </exif:UserComment>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>
+endstreamendobj60 0 obj<</Length 492/Subtype/XML/Type/Metadata>>stream
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 6.0-c002 79.164460, 2020/05/12-16:04:17        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:exif="http://ns.adobe.com/exif/1.0/"
+   exif:PixelXDimension="671"
+   exif:PixelYDimension="1351">
+   <exif:UserComment>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">Screenshot</rdf:li>
+    </rdf:Alt>
+   </exif:UserComment>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>
+endstreamendobj61 0 obj<</BitsPerComponent 8/ColorSpace/DeviceGray/Filter/DCTDecode/Height 1351/Intent/RelativeColorimetric/Length 4553/Metadata 60 0 R/Name/X/Subtype/Image/Type/XObject/Width 671>>stream
+
+
+!"#$%&'()*123456789:ABCDEFGHIJQRSTUVWXYZabcdefghijqrstuvwxyz
+
+endstreamendobj62 0 obj<</BitsPerComponent 8/ColorSpace/DeviceRGB/Filter/DCTDecode/Height 1351/Intent/RelativeColorimetric/Length 219795/Metadata 59 0 R/Name/X/SMask 61 0 R/Subtype/Image/Type/XObject/Width 671>>stream
+
+
+'()*56789:CDEFGHIJTUVWXYZbcdefghijtuvwxyz
+
+endstreamendobj63 0 obj<</Length 492/Subtype/XML/Type/Metadata>>stream
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 6.0-c002 79.164460, 2020/05/12-16:04:17        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:exif="http://ns.adobe.com/exif/1.0/"
+   exif:PixelXDimension="666"
+   exif:PixelYDimension="1350">
+   <exif:UserComment>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">Screenshot</rdf:li>
+    </rdf:Alt>
+   </exif:UserComment>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>
+endstreamendobj64 0 obj<</Length 492/Subtype/XML/Type/Metadata>>stream
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 6.0-c002 79.164460, 2020/05/12-16:04:17        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:exif="http://ns.adobe.com/exif/1.0/"
+   exif:PixelXDimension="666"
+   exif:PixelYDimension="1350">
+   <exif:UserComment>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">Screenshot</rdf:li>
+    </rdf:Alt>
+   </exif:UserComment>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>
+endstreamendobj65 0 obj<</BitsPerComponent 8/ColorSpace/DeviceGray/Filter/DCTDecode/Height 1350/Intent/RelativeColorimetric/Length 4553/Metadata 64 0 R/Name/X/Subtype/Image/Type/XObject/Width 666>>stream
+
+
+!"#$%&'()*123456789:ABCDEFGHIJQRSTUVWXYZabcdefghijqrstuvwxyz
+
+endstreamendobj66 0 obj<</BitsPerComponent 8/ColorSpace/DeviceRGB/Filter/DCTDecode/Height 1350/Intent/RelativeColorimetric/Length 193109/Metadata 63 0 R/Name/X/SMask 65 0 R/Subtype/Image/Type/XObject/Width 666>>stream
+
+
+$%&'()*456789:CDEFGHIJSTUVWXYZcdefghijrstuvwxyz
+
+endstreamendobj67 0 obj<</Length 492/Subtype/XML/Type/Metadata>>stream
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 6.0-c002 79.164460, 2020/05/12-16:04:17        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:exif="http://ns.adobe.com/exif/1.0/"
+   exif:PixelXDimension="671"
+   exif:PixelYDimension="1349">
+   <exif:UserComment>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">Screenshot</rdf:li>
+    </rdf:Alt>
+   </exif:UserComment>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>
+endstreamendobj68 0 obj<</Length 492/Subtype/XML/Type/Metadata>>stream
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 6.0-c002 79.164460, 2020/05/12-16:04:17        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:exif="http://ns.adobe.com/exif/1.0/"
+   exif:PixelXDimension="671"
+   exif:PixelYDimension="1349">
+   <exif:UserComment>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">Screenshot</rdf:li>
+    </rdf:Alt>
+   </exif:UserComment>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>
+endstreamendobj69 0 obj<</BitsPerComponent 8/ColorSpace/DeviceGray/Filter/DCTDecode/Height 1349/Intent/RelativeColorimetric/Length 4553/Metadata 68 0 R/Name/X/Subtype/Image/Type/XObject/Width 671>>stream
+
+
+!"#$%&'()*123456789:ABCDEFGHIJQRSTUVWXYZabcdefghijqrstuvwxyz
+
+endstreamendobj70 0 obj<</BitsPerComponent 8/ColorSpace/DeviceRGB/Filter/DCTDecode/Height 1349/Intent/RelativeColorimetric/Length 161568/Metadata 67 0 R/Name/X/SMask 69 0 R/Subtype/Image/Type/XObject/Width 671>>stream
+
+
+$%&'()*3456789:CDEFGHIJSTUVWXYZcdefghijrstuvwxyz
+
+                                               
+
+}l@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@A
+
+                                                       
+
+"$@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@A
+
+                                           )
+
+                                                                              
+
+                                              
+
+endstreamendobj71 0 obj<</CS/DeviceRGB/S/Transparency/Type/Group>>endobj72 0 obj<</ArtBox[0.0 0.0 788.031 595.276]/BleedBox[0.0 0.0 788.031 595.276]/Contents 73 0 R/CropBox[0.0 0.0 788.031 595.276]/MediaBox[0.0 0.0 788.031 595.276]/Parent 235 0 R/PieceInfo<</InDesign<</DocumentID<FEFF0078006D0070002E006400690064003A00370033003100320036003800370064002D0031003300390063002D0034003000330065002D0062003300650066002D003100640061003500390065003200330039003600620035>/LastModified<FEFF0044003A00320030003200300030003900310031003100360035003500300030005A>/NumberofPages 1/OriginalDocumentID<FEFF0078006D0070002E006400690064003A00370033003200310062003000360065002D0062003400370031002D0034003300370039002D0039003100390033002D003100360039003100390031003800630066006600630038>/PageUIDList<</0 18100>>/PageWidthList<</0 788.031>>>>>>/Resources<</ColorSpace<</CS0 219 0 R>>/ExtGState<</GS0 243 0 R/GS1 187 0 R>>/Font<</T1_0 245 0 R/TT0 216 0 R/TT1 197 0 R>>/ProcSet[/PDF/Text]/XObject<</Fm0 193 0 R/Fm1 203 0 R>>>>/Rotate 0/TrimBox[0.0 0.0 788.031 595.276]/Type/Page>>endobj73 0 obj<</Filter/FlateDecode/Length 623>>stream
+H
+
+endstreamendobj74 0 obj<</ArtBox[0.0 0.0 788.031 595.276]/BleedBox[0.0 0.0 788.031 595.276]/Contents 75 0 R/CropBox[0.0 0.0 788.031 595.276]/Group 81 0 R/MediaBox[0.0 0.0 788.031 595.276]/Parent 236 0 R/PieceInfo<</InDesign<</DocumentID<FEFF0078006D0070002E006400690064003A00370033003100320036003800370064002D0031003300390063002D0034003000330065002D0062003300650066002D003100640061003500390065003200330039003600620035>/LastModified<FEFF0044003A00320030003200300030003900310031003100360035003500300030005A>/NumberofPages 1/OriginalDocumentID<FEFF0078006D0070002E006400690064003A00370033003200310062003000360065002D0062003400370031002D0034003300370039002D0039003100390033002D003100360039003100390031003800630066006600630038>/PageUIDList<</0 5213>>/PageWidthList<</0 788.031>>>>>>/Resources<</ColorSpace<</CS0 219 0 R>>/ExtGState<</GS0 243 0 R/GS1 76 0 R/GS2 187 0 R>>/Font<</T1_0 245 0 R/T1_1 195 0 R/T1_2 225 0 R/T1_3 221 0 R/TT0 197 0 R>>/ProcSet[/PDF/Text/ImageC]/XObject<</Fm0 193 0 R/Fm1 203 0 R/Im0 80 0 R>>>>/Rotate 0/TrimBox[0.0 0.0 788.031 595.276]/Type/Page>>endobj75 0 obj<</Filter/FlateDecode/Length 1041>>stream
+H
+
+bendstreamendobj76 0 obj<</AIS false/BM/Normal/CA 1.0/OP false/OPM 1/SA false/SMask/None/Type/ExtGState/ca 1.0/op false>>endobj77 0 obj<</Length 4986/Subtype/XML/Type/Metadata>>stream
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 6.0-c002 79.164460, 2020/05/12-16:04:17        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+    xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+    xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"
+    xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:pdf="http://ns.adobe.com/pdf/1.3/"
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:tiff="http://ns.adobe.com/tiff/1.0/"
+    xmlns:exif="http://ns.adobe.com/exif/1.0/"
+    xmlns:ExtensisFontSense="http://www.extensis.com/meta/FontSense/"
+   xmp:CreateDate="2020-09-01T14:40:07+02:00"
+   xmp:MetadataDate="2020-09-10T10:02:08-04:00"
+   xmp:ModifyDate="2020-09-10T10:02:08-04:00"
+   xmp:CreatorTool="Adobe InDesign 15.0 (Macintosh)"
+   xmpMM:InstanceID="xmp.iid:4863b2de-3266-42d2-b530-f15fb85b5e1a"
+   xmpMM:OriginalDocumentID="xmp.did:F77F117407206811994C8341DA420B83"
+   xmpMM:DocumentID="xmp.id:6b9ca6fc-84c6-40b4-a24e-59a705b11edd"
+   xmpMM:RenditionClass="proof:pdf"
+   dc:format="application/vnd.adobe.photoshop"
+   pdf:Producer="Adobe PDF Library 15.0"
+   pdf:Trapped="False"
+   photoshop:ColorMode="3"
+   photoshop:ICCProfile="sRGB IEC61966-2.1"
+   tiff:Orientation="1"
+   tiff:XResolution="3000000/10000"
+   tiff:YResolution="3000000/10000"
+   tiff:ResolutionUnit="2"
+   exif:ColorSpace="1"
+   exif:PixelXDimension="2357"
+   exif:PixelYDimension="3388">
+   <xmpMM:DerivedFrom
+    stRef:instanceID="uuid:1cb2447d-01a0-2346-b687-9c57455cfed3"
+    stRef:documentID="xmp.id:6b9ca6fc-84c6-40b4-a24e-59a705b11edd"
+    stRef:originalDocumentID="xmp.did:F77F117407206811994C8341DA420B83"
+    stRef:renditionClass="proof:pdf"/>
+   <xmpMM:History>
+    <rdf:Seq>
+     <rdf:li
+      stEvt:action="converted"
+      stEvt:parameters="from application/x-indesign to application/pdf"
+      stEvt:softwareAgent="Adobe InDesign 15.0 (Macintosh)"
+      stEvt:changed="/"
+      stEvt:when="2020-09-01T14:40:07+02:00"/>
+     <rdf:li
+      stEvt:action="converted"
+      stEvt:parameters="from application/pdf to application/vnd.adobe.photoshop"/>
+     <rdf:li
+      stEvt:action="saved"
+      stEvt:instanceID="xmp.iid:4863b2de-3266-42d2-b530-f15fb85b5e1a"
+      stEvt:when="2020-09-10T10:02:08-04:00"
+      stEvt:softwareAgent="Adobe Photoshop 21.2 (Macintosh)"
+      stEvt:changed="/"/>
+    </rdf:Seq>
+   </xmpMM:History>
+   <ExtensisFontSense:slug>
+    <rdf:Bag>
+     <rdf:li
+      ExtensisFontSense:OutlineFileSize="0"
+      ExtensisFontSense:Checksum="3906707827"
+      ExtensisFontSense:FontSense_1.2_Checksum="3906707827"
+      ExtensisFontSense:Family="Century Gothic Std"
+      ExtensisFontSense:PostScriptName="CenturyGothicStd-Bold"
+      ExtensisFontSense:FontKind="OpenType - PS"
+      ExtensisFontSense:Foundry="Monotype Typography"
+      ExtensisFontSense:KerningChecksum="0"
+      ExtensisFontSense:Version="1.000"/>
+     <rdf:li
+      ExtensisFontSense:OutlineFileSize="0"
+      ExtensisFontSense:Checksum="2027571210"
+      ExtensisFontSense:FontSense_1.2_Checksum="2027571210"
+      ExtensisFontSense:Family="Century Gothic Std"
+      ExtensisFontSense:PostScriptName="CenturyGothicStd"
+      ExtensisFontSense:FontKind="OpenType - PS"
+      ExtensisFontSense:Foundry="Monotype Typography"
+      ExtensisFontSense:KerningChecksum="0"
+      ExtensisFontSense:Version="1.001"/>
+     <rdf:li
+      ExtensisFontSense:OutlineFileSize="0"
+      ExtensisFontSense:Checksum="823554186"
+      ExtensisFontSense:FontSense_1.2_Checksum="823554186"
+      ExtensisFontSense:Family="Century Gothic Std"
+      ExtensisFontSense:PostScriptName="CenturyGothicStd-BoldItalic"
+      ExtensisFontSense:FontKind="OpenType - PS"
+      ExtensisFontSense:Foundry="Monotype Typography"
+      ExtensisFontSense:KerningChecksum="0"
+      ExtensisFontSense:Version="1.000"/>
+     <rdf:li
+      ExtensisFontSense:OutlineFileSize="0"
+      ExtensisFontSense:Checksum="1911985237"
+      ExtensisFontSense:FontSense_1.2_Checksum="1911985237"
+      ExtensisFontSense:Family="Century Gothic Std"
+      ExtensisFontSense:PostScriptName="CenturyGothicStd-Italic"
+      ExtensisFontSense:FontKind="OpenType - PS"
+      ExtensisFontSense:Foundry="Monotype Typography"
+      ExtensisFontSense:KerningChecksum="0"
+      ExtensisFontSense:Version="1.002"/>
+     <rdf:li
+      ExtensisFontSense:OutlineFileSize="0"
+      ExtensisFontSense:Checksum="733597325"
+      ExtensisFontSense:FontSense_1.2_Checksum="733597325"
+      ExtensisFontSense:Family="Helvetica Neue LT Com"
+      ExtensisFontSense:PostScriptName="HelveticaNeueLTCom-Roman"
+      ExtensisFontSense:FontKind="OpenType - TT"
+      ExtensisFontSense:Foundry="Linotype AG"
+      ExtensisFontSense:KerningChecksum="0"
+      ExtensisFontSense:Version="2.01"/>
+    </rdf:Bag>
+   </ExtensisFontSense:slug>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>
+endstreamendobj78 0 obj<</Length 4986/Subtype/XML/Type/Metadata>>stream
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 6.0-c002 79.164460, 2020/05/12-16:04:17        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+    xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+    xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"
+    xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:pdf="http://ns.adobe.com/pdf/1.3/"
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:tiff="http://ns.adobe.com/tiff/1.0/"
+    xmlns:exif="http://ns.adobe.com/exif/1.0/"
+    xmlns:ExtensisFontSense="http://www.extensis.com/meta/FontSense/"
+   xmp:CreateDate="2020-09-01T14:40:07+02:00"
+   xmp:MetadataDate="2020-09-10T10:02:08-04:00"
+   xmp:ModifyDate="2020-09-10T10:02:08-04:00"
+   xmp:CreatorTool="Adobe InDesign 15.0 (Macintosh)"
+   xmpMM:InstanceID="xmp.iid:4863b2de-3266-42d2-b530-f15fb85b5e1a"
+   xmpMM:OriginalDocumentID="xmp.did:F77F117407206811994C8341DA420B83"
+   xmpMM:DocumentID="xmp.id:6b9ca6fc-84c6-40b4-a24e-59a705b11edd"
+   xmpMM:RenditionClass="proof:pdf"
+   dc:format="application/vnd.adobe.photoshop"
+   pdf:Producer="Adobe PDF Library 15.0"
+   pdf:Trapped="False"
+   photoshop:ColorMode="3"
+   photoshop:ICCProfile="sRGB IEC61966-2.1"
+   tiff:Orientation="1"
+   tiff:XResolution="3000000/10000"
+   tiff:YResolution="3000000/10000"
+   tiff:ResolutionUnit="2"
+   exif:ColorSpace="1"
+   exif:PixelXDimension="2357"
+   exif:PixelYDimension="3388">
+   <xmpMM:DerivedFrom
+    stRef:instanceID="uuid:1cb2447d-01a0-2346-b687-9c57455cfed3"
+    stRef:documentID="xmp.id:6b9ca6fc-84c6-40b4-a24e-59a705b11edd"
+    stRef:originalDocumentID="xmp.did:F77F117407206811994C8341DA420B83"
+    stRef:renditionClass="proof:pdf"/>
+   <xmpMM:History>
+    <rdf:Seq>
+     <rdf:li
+      stEvt:action="converted"
+      stEvt:parameters="from application/x-indesign to application/pdf"
+      stEvt:softwareAgent="Adobe InDesign 15.0 (Macintosh)"
+      stEvt:changed="/"
+      stEvt:when="2020-09-01T14:40:07+02:00"/>
+     <rdf:li
+      stEvt:action="converted"
+      stEvt:parameters="from application/pdf to application/vnd.adobe.photoshop"/>
+     <rdf:li
+      stEvt:action="saved"
+      stEvt:instanceID="xmp.iid:4863b2de-3266-42d2-b530-f15fb85b5e1a"
+      stEvt:when="2020-09-10T10:02:08-04:00"
+      stEvt:softwareAgent="Adobe Photoshop 21.2 (Macintosh)"
+      stEvt:changed="/"/>
+    </rdf:Seq>
+   </xmpMM:History>
+   <ExtensisFontSense:slug>
+    <rdf:Bag>
+     <rdf:li
+      ExtensisFontSense:OutlineFileSize="0"
+      ExtensisFontSense:Checksum="3906707827"
+      ExtensisFontSense:FontSense_1.2_Checksum="3906707827"
+      ExtensisFontSense:Family="Century Gothic Std"
+      ExtensisFontSense:PostScriptName="CenturyGothicStd-Bold"
+      ExtensisFontSense:FontKind="OpenType - PS"
+      ExtensisFontSense:Foundry="Monotype Typography"
+      ExtensisFontSense:KerningChecksum="0"
+      ExtensisFontSense:Version="1.000"/>
+     <rdf:li
+      ExtensisFontSense:OutlineFileSize="0"
+      ExtensisFontSense:Checksum="2027571210"
+      ExtensisFontSense:FontSense_1.2_Checksum="2027571210"
+      ExtensisFontSense:Family="Century Gothic Std"
+      ExtensisFontSense:PostScriptName="CenturyGothicStd"
+      ExtensisFontSense:FontKind="OpenType - PS"
+      ExtensisFontSense:Foundry="Monotype Typography"
+      ExtensisFontSense:KerningChecksum="0"
+      ExtensisFontSense:Version="1.001"/>
+     <rdf:li
+      ExtensisFontSense:OutlineFileSize="0"
+      ExtensisFontSense:Checksum="823554186"
+      ExtensisFontSense:FontSense_1.2_Checksum="823554186"
+      ExtensisFontSense:Family="Century Gothic Std"
+      ExtensisFontSense:PostScriptName="CenturyGothicStd-BoldItalic"
+      ExtensisFontSense:FontKind="OpenType - PS"
+      ExtensisFontSense:Foundry="Monotype Typography"
+      ExtensisFontSense:KerningChecksum="0"
+      ExtensisFontSense:Version="1.000"/>
+     <rdf:li
+      ExtensisFontSense:OutlineFileSize="0"
+      ExtensisFontSense:Checksum="1911985237"
+      ExtensisFontSense:FontSense_1.2_Checksum="1911985237"
+      ExtensisFontSense:Family="Century Gothic Std"
+      ExtensisFontSense:PostScriptName="CenturyGothicStd-Italic"
+      ExtensisFontSense:FontKind="OpenType - PS"
+      ExtensisFontSense:Foundry="Monotype Typography"
+      ExtensisFontSense:KerningChecksum="0"
+      ExtensisFontSense:Version="1.002"/>
+     <rdf:li
+      ExtensisFontSense:OutlineFileSize="0"
+      ExtensisFontSense:Checksum="733597325"
+      ExtensisFontSense:FontSense_1.2_Checksum="733597325"
+      ExtensisFontSense:Family="Helvetica Neue LT Com"
+      ExtensisFontSense:PostScriptName="HelveticaNeueLTCom-Roman"
+      ExtensisFontSense:FontKind="OpenType - TT"
+      ExtensisFontSense:Foundry="Linotype AG"
+      ExtensisFontSense:KerningChecksum="0"
+      ExtensisFontSense:Version="2.01"/>
+    </rdf:Bag>
+   </ExtensisFontSense:slug>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>
+endstreamendobj79 0 obj<</BitsPerComponent 8/ColorSpace/DeviceGray/Filter/DCTDecode/Height 3322/Intent/RelativeColorimetric/Length 19464/Metadata 78 0 R/Name/X/Subtype/Image/Type/XObject/Width 1338>>stream
+
+
+!"#$%&'()*123456789:ABCDEFGHIJQRSTUVWXYZabcdefghijqrstuvwxyz
+
+endstreamendobj80 0 obj<</BitsPerComponent 8/ColorSpace/DeviceRGB/Filter/DCTDecode/Height 3322/Intent/RelativeColorimetric/Length 1418070/Metadata 77 0 R/Name/X/SMask 79 0 R/Subtype/Image/Type/XObject/Width 1338>>stream
+
+
+$%&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
+
+endstreamendobj81 0 obj<</CS/DeviceRGB/S/Transparency/Type/Group>>endobj82 0 obj<</ArtBox[0.0 0.0 788.031 595.276]/BleedBox[0.0 0.0 788.031 595.276]/Contents 83 0 R/CropBox[0.0 0.0 788.031 595.276]/MediaBox[0.0 0.0 788.031 595.276]/Parent 236 0 R/PieceInfo<</InDesign<</DocumentID<FEFF0078006D0070002E006400690064003A00370033003100320036003800370064002D0031003300390063002D0034003000330065002D0062003300650066002D003100640061003500390065003200330039003600620035>/LastModified<FEFF0044003A00320030003200300030003900310031003100360035003500300031005A>/NumberofPages 1/OriginalDocumentID<FEFF0078006D0070002E006400690064003A00370033003200310062003000360065002D0062003400370031002D0034003300370039002D0039003100390033002D003100360039003100390031003800630066006600630038>/PageUIDList<</0 20577>>/PageWidthList<</0 788.031>>>>>>/Resources<</ExtGState<</GS0 243 0 R/GS1 187 0 R>>/Font<</T1_0 245 0 R/TT0 197 0 R>>/ProcSet[/PDF/Text]/XObject<</Fm0 193 0 R/Fm1 194 0 R>>>>/Rotate 0/TrimBox[0.0 0.0 788.031 595.276]/Type/Page>>endobj83 0 obj<</Filter/FlateDecode/Length 210>>stream
+H
+
+B1@cendstreamendobj84 0 obj<</ArtBox[0.0 0.0 788.031 595.276]/BleedBox[0.0 0.0 788.031 595.276]/Contents 85 0 R/CropBox[0.0 0.0 788.031 595.276]/MediaBox[0.0 0.0 788.031 595.276]/Parent 236 0 R/PieceInfo<</InDesign<</DocumentID<FEFF0078006D0070002E006400690064003A00370033003100320036003800370064002D0031003300390063002D0034003000330065002D0062003300650066002D003100640061003500390065003200330039003600620035>/LastModified<FEFF0044003A00320030003200300030003900310031003100360035003500300031005A>/NumberofPages 1/OriginalDocumentID<FEFF0078006D0070002E006400690064003A00370033003200310062003000360065002D0062003400370031002D0034003300370039002D0039003100390033002D003100360039003100390031003800630066006600630038>/PageUIDList<</0 20578>>/PageWidthList<</0 788.031>>>>>>/Resources<</ColorSpace<</CS0 219 0 R>>/ExtGState<</GS0 243 0 R/GS1 187 0 R>>/Font<</C2_0 228 0 R/T1_0 245 0 R/TT0 216 0 R/TT1 197 0 R>>/ProcSet[/PDF/Text]/XObject<</Fm0 193 0 R/Fm1 194 0 R>>>>/Rotate 0/TrimBox[0.0 0.0 788.031 595.276]/Type/Page>>endobj85 0 obj<</Filter/FlateDecode/Length 375>>stream
+H
+
+endstreamendobj86 0 obj<</Ordering(Identity)/Registry(Adobe)/Supplement 0>>endobj87 0 obj<</Filter/FlateDecode/Length 15>>stream
+H
+
+endstreamendobj88 0 obj<</Filter/FlateDecode/Length 3937/Length1 9616>>stream
+H
+
+endstreamendobj89 0 obj<</Ascent 1139/CIDSet 87 0 R/CapHeight 733/Descent -360/Flags 4/FontBBox[-856 -360 1588 1139]/FontFamily(Helvetica Now MT Micro)/FontFile2 88 0 R/FontName/CAZQIS+HelveticaNowMTMicro-Regular/FontStretch/Normal/FontWeight 400/ItalicAngle 0/StemV 100/Type/FontDescriptor/XHeight 548>>endobj90 0 obj<</BaseFont/CAZQIS+HelveticaNowMTMicro-Regular/CIDSystemInfo 86 0 R/CIDToGIDMap/Identity/DW 1000/FontDescriptor 89 0 R/Subtype/CIDFontType2/Type/Font/W[497[215]]>>endobj91 0 obj[90 0 R]endobj92 0 obj<</Filter/FlateDecode/Length 228>>stream
+H
+
+endstreamendobj93 0 obj<</ArtBox[0.0 0.0 788.031 595.276]/BleedBox[0.0 0.0 788.031 595.276]/Contents 94 0 R/CropBox[0.0 0.0 788.031 595.276]/Group 101 0 R/MediaBox[0.0 0.0 788.031 595.276]/Parent 236 0 R/PieceInfo<</InDesign<</DocumentID<FEFF0078006D0070002E006400690064003A00370033003100320036003800370064002D0031003300390063002D0034003000330065002D0062003300650066002D003100640061003500390065003200330039003600620035>/LastModified<FEFF0044003A00320030003200300030003900310031003100360035003500300031005A>/NumberofPages 1/OriginalDocumentID<FEFF0078006D0070002E006400690064003A00370033003200310062003000360065002D0062003400370031002D0034003300370039002D0039003100390033002D003100360039003100390031003800630066006600630038>/PageUIDList<</0 20579>>/PageWidthList<</0 788.031>>>>>>/Resources<</ExtGState<</GS0 243 0 R/GS1 187 0 R>>/Font<</T1_0 245 0 R/T1_1 195 0 R/TT0 197 0 R/TT1 188 0 R>>/ProcSet[/PDF/Text/ImageC]/XObject<</Fm0 193 0 R/Fm1 194 0 R/Im0 96 0 R/Im1 100 0 R>>>>/Rotate 0/TrimBox[0.0 0.0 788.031 595.276]/Type/Page>>endobj94 0 obj<</Filter/FlateDecode/Length 627>>stream
+H
+
+<;endstreamendobj95 0 obj<</Length 2921/Subtype/XML/Type/Metadata>>stream
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 6.0-c002 79.164460, 2020/05/12-16:04:17        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:Iptc4xmpCore="http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/"
+    xmlns:GettyImagesGIFT="http://xmp.gettyimages.com/gift/1.0/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:plus="http://ns.useplus.org/ldf/xmp/1.0/"
+   photoshop:Source="iStockphoto"
+   photoshop:AuthorsPosition="Contributor"
+   photoshop:CopyrightFlag="true"
+   photoshop:Country="Thailand"
+   photoshop:DateCreated="2019-10-21T00:00:00+00:00"
+   photoshop:Credit="Getty Images/iStockphoto"
+   photoshop:Headline="Computer display with blank white screen, &quot;nComputer monitor isolated on white background with clipping path."
+   photoshop:URL="https://www.istockphoto.com"
+   photoshop:Instructions="Not Released (NR) "
+   Iptc4xmpCore:CountryCode="THA"
+   GettyImagesGIFT:Dlref="rNh5HV+JZ8/jGJFFMnjVpQ=="
+   GettyImagesGIFT:ImageRank="3"
+   GettyImagesGIFT:AssetID="1183337149">
+   <dc:title>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">1183337149</rdf:li>
+    </rdf:Alt>
+   </dc:title>
+   <dc:subject>
+    <rdf:Bag>
+     <rdf:li>flat led</rdf:li>
+     <rdf:li>vision</rdf:li>
+     <rdf:li>style</rdf:li>
+     <rdf:li>plan</rdf:li>
+     <rdf:li>creative</rdf:li>
+     <rdf:li>brief</rdf:li>
+     <rdf:li>guidelines</rdf:li>
+     <rdf:li>method</rdf:li>
+     <rdf:li>process</rdf:li>
+     <rdf:li>visual</rdf:li>
+     <rdf:li>object</rdf:li>
+     <rdf:li>work</rdf:li>
+     <rdf:li>studio</rdf:li>
+     <rdf:li>frame</rdf:li>
+     <rdf:li>device</rdf:li>
+     <rdf:li>copy</rdf:li>
+     <rdf:li>space</rdf:li>
+     <rdf:li>display</rdf:li>
+     <rdf:li>monitor</rdf:li>
+     <rdf:li>background</rdf:li>
+     <rdf:li>face</rdf:li>
+     <rdf:li>mockup</rdf:li>
+     <rdf:li>border</rdf:li>
+     <rdf:li>screen</rdf:li>
+     <rdf:li>isolated</rdf:li>
+     <rdf:li>pc</rdf:li>
+     <rdf:li>hd</rdf:li>
+     <rdf:li>digital</rdf:li>
+     <rdf:li>electronic</rdf:li>
+     <rdf:li>desktop</rdf:li>
+     <rdf:li>white</rdf:li>
+     <rdf:li>black</rdf:li>
+     <rdf:li>gray</rdf:li>
+     <rdf:li>clipping</rdf:li>
+     <rdf:li>path</rdf:li>
+    </rdf:Bag>
+   </dc:subject>
+   <dc:creator>
+    <rdf:Seq>
+     <rdf:li>Longmongdoosi</rdf:li>
+    </rdf:Seq>
+   </dc:creator>
+   <dc:description>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">Computer display with blank white screen, "nComputer monitor isolated on white background with clipping path.</rdf:li>
+    </rdf:Alt>
+   </dc:description>
+   <plus:Licensor>
+    <rdf:Seq>
+     <rdf:li
+      plus:LicensorURL="https://www.istockphoto.com/photo/license-gm1183337149-?utm_medium=organic&amp;utm_source=google&amp;utm_campaign=iptcurl"/>
+    </rdf:Seq>
+   </plus:Licensor>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>
+endstreamendobj96 0 obj<</BitsPerComponent 8/ColorSpace/DeviceRGB/DecodeParms<</BitsPerComponent 8/Colors 3/Columns 1565>>/Filter/FlateDecode/Height 1413/Intent/RelativeColorimetric/Length 371409/Metadata 95 0 R/Name/X/Subtype/Image/Type/XObject/Width 1565>>stream
+H
+
+endstreamendobj97 0 obj<</Length 493/Subtype/XML/Type/Metadata>>stream
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 6.0-c002 79.164460, 2020/05/12-16:04:17        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:exif="http://ns.adobe.com/exif/1.0/"
+   exif:PixelXDimension="1649"
+   exif:PixelYDimension="1114">
+   <exif:UserComment>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">Screenshot</rdf:li>
+    </rdf:Alt>
+   </exif:UserComment>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>
+endstreamendobj98 0 obj<</Length 493/Subtype/XML/Type/Metadata>>stream
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 6.0-c002 79.164460, 2020/05/12-16:04:17        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:exif="http://ns.adobe.com/exif/1.0/"
+   exif:PixelXDimension="1649"
+   exif:PixelYDimension="1114">
+   <exif:UserComment>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">Screenshot</rdf:li>
+    </rdf:Alt>
+   </exif:UserComment>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>
+endstreamendobj99 0 obj<</BitsPerComponent 8/ColorSpace/DeviceGray/Filter/DCTDecode/Height 957/Intent/RelativeColorimetric/Length 6928/Metadata 98 0 R/Name/X/Subtype/Image/Type/XObject/Width 1649>>stream
+
+
+!"#$%&'()*123456789:ABCDEFGHIJQRSTUVWXYZabcdefghijqrstuvwxyz
+
+endstreamendobj100 0 obj<</BitsPerComponent 8/ColorSpace/DeviceRGB/Filter/DCTDecode/Height 957/Intent/RelativeColorimetric/Length 302532/Metadata 97 0 R/Name/X/SMask 99 0 R/Subtype/Image/Type/XObject/Width 1649>>stream
+
+
+$%&'()*456789:DEFGHIJTUVWXYZdefghijrstuvwxyz
+
+endstreamendobj101 0 obj<</CS/DeviceRGB/S/Transparency/Type/Group>>endobj102 0 obj<</ArtBox[0.0 0.0 788.031 595.276]/BleedBox[0.0 0.0 788.031 595.276]/Contents 103 0 R/CropBox[0.0 0.0 788.031 595.276]/Group 110 0 R/MediaBox[0.0 0.0 788.031 595.276]/Parent 236 0 R/PieceInfo<</InDesign<</DocumentID<FEFF0078006D0070002E006400690064003A00370033003100320036003800370064002D0031003300390063002D0034003000330065002D0062003300650066002D003100640061003500390065003200330039003600620035>/LastModified<FEFF0044003A00320030003200300030003900310031003100360035003500300032005A>/NumberofPages 1/OriginalDocumentID<FEFF0078006D0070002E006400690064003A00370033003200310062003000360065002D0062003400370031002D0034003300370039002D0039003100390033002D003100360039003100390031003800630066006600630038>/PageUIDList<</0 20580>>/PageWidthList<</0 788.031>>>>>>/Resources<</ExtGState<</GS0 243 0 R/GS1 187 0 R>>/Font<</T1_0 245 0 R/T1_1 225 0 R/T1_2 195 0 R/T1_3 221 0 R/TT0 197 0 R>>/ProcSet[/PDF/Text/ImageC]/XObject<</Fm0 193 0 R/Fm1 194 0 R/Im0 105 0 R/Im1 109 0 R>>>>/Rotate 0/TrimBox[0.0 0.0 788.031 595.276]/Type/Page>>endobj103 0 obj<</Filter/FlateDecode/Length 635>>stream
+H
+
+endstreamendobj104 0 obj<</Length 2921/Subtype/XML/Type/Metadata>>stream
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 6.0-c002 79.164460, 2020/05/12-16:04:17        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:Iptc4xmpCore="http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/"
+    xmlns:GettyImagesGIFT="http://xmp.gettyimages.com/gift/1.0/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:plus="http://ns.useplus.org/ldf/xmp/1.0/"
+   photoshop:Source="iStockphoto"
+   photoshop:AuthorsPosition="Contributor"
+   photoshop:CopyrightFlag="true"
+   photoshop:Country="Thailand"
+   photoshop:DateCreated="2019-10-21T00:00:00+00:00"
+   photoshop:Credit="Getty Images/iStockphoto"
+   photoshop:Headline="Computer display with blank white screen, &quot;nComputer monitor isolated on white background with clipping path."
+   photoshop:URL="https://www.istockphoto.com"
+   photoshop:Instructions="Not Released (NR) "
+   Iptc4xmpCore:CountryCode="THA"
+   GettyImagesGIFT:Dlref="rNh5HV+JZ8/jGJFFMnjVpQ=="
+   GettyImagesGIFT:ImageRank="3"
+   GettyImagesGIFT:AssetID="1183337149">
+   <dc:title>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">1183337149</rdf:li>
+    </rdf:Alt>
+   </dc:title>
+   <dc:subject>
+    <rdf:Bag>
+     <rdf:li>flat led</rdf:li>
+     <rdf:li>vision</rdf:li>
+     <rdf:li>style</rdf:li>
+     <rdf:li>plan</rdf:li>
+     <rdf:li>creative</rdf:li>
+     <rdf:li>brief</rdf:li>
+     <rdf:li>guidelines</rdf:li>
+     <rdf:li>method</rdf:li>
+     <rdf:li>process</rdf:li>
+     <rdf:li>visual</rdf:li>
+     <rdf:li>object</rdf:li>
+     <rdf:li>work</rdf:li>
+     <rdf:li>studio</rdf:li>
+     <rdf:li>frame</rdf:li>
+     <rdf:li>device</rdf:li>
+     <rdf:li>copy</rdf:li>
+     <rdf:li>space</rdf:li>
+     <rdf:li>display</rdf:li>
+     <rdf:li>monitor</rdf:li>
+     <rdf:li>background</rdf:li>
+     <rdf:li>face</rdf:li>
+     <rdf:li>mockup</rdf:li>
+     <rdf:li>border</rdf:li>
+     <rdf:li>screen</rdf:li>
+     <rdf:li>isolated</rdf:li>
+     <rdf:li>pc</rdf:li>
+     <rdf:li>hd</rdf:li>
+     <rdf:li>digital</rdf:li>
+     <rdf:li>electronic</rdf:li>
+     <rdf:li>desktop</rdf:li>
+     <rdf:li>white</rdf:li>
+     <rdf:li>black</rdf:li>
+     <rdf:li>gray</rdf:li>
+     <rdf:li>clipping</rdf:li>
+     <rdf:li>path</rdf:li>
+    </rdf:Bag>
+   </dc:subject>
+   <dc:creator>
+    <rdf:Seq>
+     <rdf:li>Longmongdoosi</rdf:li>
+    </rdf:Seq>
+   </dc:creator>
+   <dc:description>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">Computer display with blank white screen, "nComputer monitor isolated on white background with clipping path.</rdf:li>
+    </rdf:Alt>
+   </dc:description>
+   <plus:Licensor>
+    <rdf:Seq>
+     <rdf:li
+      plus:LicensorURL="https://www.istockphoto.com/photo/license-gm1183337149-?utm_medium=organic&amp;utm_source=google&amp;utm_campaign=iptcurl"/>
+    </rdf:Seq>
+   </plus:Licensor>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>
+endstreamendobj105 0 obj<</BitsPerComponent 8/ColorSpace/DeviceRGB/DecodeParms<</BitsPerComponent 8/Colors 3/Columns 1559>>/Filter/FlateDecode/Height 1417/Intent/RelativeColorimetric/Length 370825/Metadata 104 0 R/Name/X/Subtype/Image/Type/XObject/Width 1559>>stream
+H
+
+endstreamendobj106 0 obj<</Length 492/Subtype/XML/Type/Metadata>>stream
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 6.0-c002 79.164460, 2020/05/12-16:04:17        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:exif="http://ns.adobe.com/exif/1.0/"
+   exif:PixelXDimension="1424"
+   exif:PixelYDimension="973">
+   <exif:UserComment>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">Screenshot</rdf:li>
+    </rdf:Alt>
+   </exif:UserComment>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>
+endstreamendobj107 0 obj<</Length 492/Subtype/XML/Type/Metadata>>stream
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 6.0-c002 79.164460, 2020/05/12-16:04:17        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:exif="http://ns.adobe.com/exif/1.0/"
+   exif:PixelXDimension="1424"
+   exif:PixelYDimension="973">
+   <exif:UserComment>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">Screenshot</rdf:li>
+    </rdf:Alt>
+   </exif:UserComment>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>
+endstreamendobj108 0 obj<</BitsPerComponent 8/ColorSpace/DeviceGray/Filter/DCTDecode/Height 830/Intent/RelativeColorimetric/Length 5320/Metadata 107 0 R/Name/X/Subtype/Image/Type/XObject/Width 1424>>stream
+
+
+!"#$%&'()*123456789:ABCDEFGHIJQRSTUVWXYZabcdefghijqrstuvwxyz
+
+endstreamendobj109 0 obj<</BitsPerComponent 8/ColorSpace/DeviceRGB/Filter/DCTDecode/Height 830/Intent/RelativeColorimetric/Length 173614/Metadata 106 0 R/Name/X/SMask 108 0 R/Subtype/Image/Type/XObject/Width 1424>>stream
+
+
+#$%&'()*456789:CDEFGHIJTUVWXYZdefghijrstuvwxyz
+
+endstreamendobj110 0 obj<</CS/DeviceRGB/S/Transparency/Type/Group>>endobj111 0 obj<</ArtBox[0.0 0.0 788.031 595.276]/BleedBox[0.0 0.0 788.031 595.276]/Contents 112 0 R/CropBox[0.0 0.0 788.031 595.276]/Group 129 0 R/MediaBox[0.0 0.0 788.031 595.276]/Parent 237 0 R/PieceInfo<</InDesign<</DocumentID<FEFF0078006D0070002E006400690064003A00370033003100320036003800370064002D0031003300390063002D0034003000330065002D0062003300650066002D003100640061003500390065003200330039003600620035>/LastModified<FEFF0044003A00320030003200300030003900310031003100360035003500300034005A>/NumberofPages 1/OriginalDocumentID<FEFF0078006D0070002E006400690064003A00370033003200310062003000360065002D0062003400370031002D0034003300370039002D0039003100390033002D003100360039003100390031003800630066006600630038>/PageUIDList<</0 20581>>/PageWidthList<</0 788.031>>>>>>/Resources<</ExtGState<</GS0 243 0 R/GS1 187 0 R>>/Font<</T1_0 245 0 R/T1_1 229 0 R/TT0 197 0 R>>/ProcSet[/PDF/Text/ImageC]/XObject<</Fm0 193 0 R/Fm1 194 0 R/Im0 114 0 R/Im1 118 0 R/Im2 120 0 R/Im3 122 0 R/Im4 124 0 R/Im5 126 0 R/Im6 128 0 R>>>>/Rotate 0/TrimBox[0.0 0.0 788.031 595.276]/Type/Page>>endobj112 0 obj<</Filter/FlateDecode/Length 593>>stream
+H
+
+uendstreamendobj113 0 obj<</Length 2921/Subtype/XML/Type/Metadata>>stream
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 6.0-c002 79.164460, 2020/05/12-16:04:17        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:Iptc4xmpCore="http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/"
+    xmlns:GettyImagesGIFT="http://xmp.gettyimages.com/gift/1.0/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:plus="http://ns.useplus.org/ldf/xmp/1.0/"
+   photoshop:Source="iStockphoto"
+   photoshop:AuthorsPosition="Contributor"
+   photoshop:CopyrightFlag="true"
+   photoshop:Country="Thailand"
+   photoshop:DateCreated="2019-10-21T00:00:00+00:00"
+   photoshop:Credit="Getty Images/iStockphoto"
+   photoshop:Headline="Computer display with blank white screen, &quot;nComputer monitor isolated on white background with clipping path."
+   photoshop:URL="https://www.istockphoto.com"
+   photoshop:Instructions="Not Released (NR) "
+   Iptc4xmpCore:CountryCode="THA"
+   GettyImagesGIFT:Dlref="rNh5HV+JZ8/jGJFFMnjVpQ=="
+   GettyImagesGIFT:ImageRank="3"
+   GettyImagesGIFT:AssetID="1183337149">
+   <dc:title>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">1183337149</rdf:li>
+    </rdf:Alt>
+   </dc:title>
+   <dc:subject>
+    <rdf:Bag>
+     <rdf:li>flat led</rdf:li>
+     <rdf:li>vision</rdf:li>
+     <rdf:li>style</rdf:li>
+     <rdf:li>plan</rdf:li>
+     <rdf:li>creative</rdf:li>
+     <rdf:li>brief</rdf:li>
+     <rdf:li>guidelines</rdf:li>
+     <rdf:li>method</rdf:li>
+     <rdf:li>process</rdf:li>
+     <rdf:li>visual</rdf:li>
+     <rdf:li>object</rdf:li>
+     <rdf:li>work</rdf:li>
+     <rdf:li>studio</rdf:li>
+     <rdf:li>frame</rdf:li>
+     <rdf:li>device</rdf:li>
+     <rdf:li>copy</rdf:li>
+     <rdf:li>space</rdf:li>
+     <rdf:li>display</rdf:li>
+     <rdf:li>monitor</rdf:li>
+     <rdf:li>background</rdf:li>
+     <rdf:li>face</rdf:li>
+     <rdf:li>mockup</rdf:li>
+     <rdf:li>border</rdf:li>
+     <rdf:li>screen</rdf:li>
+     <rdf:li>isolated</rdf:li>
+     <rdf:li>pc</rdf:li>
+     <rdf:li>hd</rdf:li>
+     <rdf:li>digital</rdf:li>
+     <rdf:li>electronic</rdf:li>
+     <rdf:li>desktop</rdf:li>
+     <rdf:li>white</rdf:li>
+     <rdf:li>black</rdf:li>
+     <rdf:li>gray</rdf:li>
+     <rdf:li>clipping</rdf:li>
+     <rdf:li>path</rdf:li>
+    </rdf:Bag>
+   </dc:subject>
+   <dc:creator>
+    <rdf:Seq>
+     <rdf:li>Longmongdoosi</rdf:li>
+    </rdf:Seq>
+   </dc:creator>
+   <dc:description>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">Computer display with blank white screen, "nComputer monitor isolated on white background with clipping path.</rdf:li>
+    </rdf:Alt>
+   </dc:description>
+   <plus:Licensor>
+    <rdf:Seq>
+     <rdf:li
+      plus:LicensorURL="https://www.istockphoto.com/photo/license-gm1183337149-?utm_medium=organic&amp;utm_source=google&amp;utm_campaign=iptcurl"/>
+    </rdf:Seq>
+   </plus:Licensor>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>
+endstreamendobj114 0 obj<</BitsPerComponent 8/ColorSpace/DeviceRGB/DecodeParms<</BitsPerComponent 8/Colors 3/Columns 1814>>/Filter/FlateDecode/Height 1210/Intent/RelativeColorimetric/Length 261691/Metadata 113 0 R/Name/X/Subtype/Image/Type/XObject/Width 1814>>stream
+H
+
+tendstreamendobj115 0 obj<</Length 493/Subtype/XML/Type/Metadata>>stream
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 6.0-c002 79.164460, 2020/05/12-16:04:17        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:exif="http://ns.adobe.com/exif/1.0/"
+   exif:PixelXDimension="1649"
+   exif:PixelYDimension="1114">
+   <exif:UserComment>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">Screenshot</rdf:li>
+    </rdf:Alt>
+   </exif:UserComment>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>
+endstreamendobj116 0 obj<</Length 493/Subtype/XML/Type/Metadata>>stream
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 6.0-c002 79.164460, 2020/05/12-16:04:17        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:exif="http://ns.adobe.com/exif/1.0/"
+   exif:PixelXDimension="1649"
+   exif:PixelYDimension="1114">
+   <exif:UserComment>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">Screenshot</rdf:li>
+    </rdf:Alt>
+   </exif:UserComment>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>
+endstreamendobj117 0 obj<</BitsPerComponent 8/ColorSpace/DeviceGray/Filter/DCTDecode/Height 959/Intent/RelativeColorimetric/Length 6928/Metadata 116 0 R/Name/X/Subtype/Image/Type/XObject/Width 1649>>stream
+
+
+!"#$%&'()*123456789:ABCDEFGHIJQRSTUVWXYZabcdefghijqrstuvwxyz
+
+endstreamendobj118 0 obj<</BitsPerComponent 8/ColorSpace/DeviceRGB/Filter/DCTDecode/Height 959/Intent/RelativeColorimetric/Length 302939/Metadata 115 0 R/Name/X/SMask 117 0 R/Subtype/Image/Type/XObject/Width 1649>>stream
+
+
+$%&'()*456789:DEFGHIJTUVWXYZdefghijrstuvwxyz
+
+endstreamendobj119 0 obj<</Length 1630/Subtype/XML/Type/Metadata>>stream
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 6.0-c002 79.164460, 2020/05/12-16:04:17        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+    xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:tiff="http://ns.adobe.com/tiff/1.0/"
+    xmlns:exif="http://ns.adobe.com/exif/1.0/"
+   xmp:CreatorTool="Adobe Photoshop 21.2 (Macintosh)"
+   xmp:CreateDate="2020-08-31T10:19:11-04:00"
+   xmp:MetadataDate="2020-08-31T10:19:11-04:00"
+   xmp:ModifyDate="2020-08-31T10:19:11-04:00"
+   dc:format="application/vnd.adobe.photoshop"
+   xmpMM:InstanceID="xmp.iid:b9a72c40-21f2-4acb-b4e0-b70d6c6404b6"
+   xmpMM:DocumentID="xmp.did:b9a72c40-21f2-4acb-b4e0-b70d6c6404b6"
+   xmpMM:OriginalDocumentID="xmp.did:b9a72c40-21f2-4acb-b4e0-b70d6c6404b6"
+   photoshop:ColorMode="3"
+   photoshop:ICCProfile="Display P3"
+   tiff:Orientation="1"
+   tiff:XResolution="1440000/10000"
+   tiff:YResolution="1440000/10000"
+   tiff:ResolutionUnit="2"
+   exif:ColorSpace="65535"
+   exif:PixelXDimension="652"
+   exif:PixelYDimension="1058">
+   <xmpMM:History>
+    <rdf:Seq>
+     <rdf:li
+      stEvt:action="created"
+      stEvt:instanceID="xmp.iid:b9a72c40-21f2-4acb-b4e0-b70d6c6404b6"
+      stEvt:when="2020-08-31T10:19:11-04:00"
+      stEvt:softwareAgent="Adobe Photoshop 21.2 (Macintosh)"/>
+    </rdf:Seq>
+   </xmpMM:History>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>
+endstreamendobj120 0 obj<</BitsPerComponent 8/ColorSpace/DeviceRGB/Filter/DCTDecode/Height 483/Intent/RelativeColorimetric/Length 36041/Metadata 119 0 R/Name/X/Subtype/Image/Type/XObject/Width 298>>stream
+
+
+%'()*3456789:DFGHIJSWYZbcdefghijrstuvwxyz
+
+#$%&'()*23456789:BDEFGHIJSTUVWXYZacdefghijrstuvwxyz
+
+endstreamendobj121 0 obj<</Length 1873/Subtype/XML/Type/Metadata>>stream
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 6.0-c002 79.164460, 2020/05/12-16:04:17        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+    xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:tiff="http://ns.adobe.com/tiff/1.0/"
+    xmlns:exif="http://ns.adobe.com/exif/1.0/"
+   xmp:CreatorTool="Adobe Photoshop 21.2 (Macintosh)"
+   xmp:CreateDate="2020-08-31T10:19:49-04:00"
+   xmp:MetadataDate="2020-08-31T16:51:08-04:00"
+   xmp:ModifyDate="2020-08-31T16:51:08-04:00"
+   dc:format="application/vnd.adobe.photoshop"
+   xmpMM:InstanceID="xmp.iid:d0a74915-9138-4d5b-8e7f-fa98913bac94"
+   xmpMM:DocumentID="xmp.did:2a5b7972-c6be-424b-a863-f1b07d15bac2"
+   xmpMM:OriginalDocumentID="xmp.did:2a5b7972-c6be-424b-a863-f1b07d15bac2"
+   photoshop:ColorMode="3"
+   photoshop:ICCProfile="Display P3"
+   tiff:Orientation="1"
+   tiff:XResolution="1440000/10000"
+   tiff:YResolution="1440000/10000"
+   tiff:ResolutionUnit="2"
+   exif:ColorSpace="65535"
+   exif:PixelXDimension="2372"
+   exif:PixelYDimension="1276">
+   <xmpMM:History>
+    <rdf:Seq>
+     <rdf:li
+      stEvt:action="created"
+      stEvt:instanceID="xmp.iid:2a5b7972-c6be-424b-a863-f1b07d15bac2"
+      stEvt:when="2020-08-31T10:19:49-04:00"
+      stEvt:softwareAgent="Adobe Photoshop 21.2 (Macintosh)"/>
+     <rdf:li
+      stEvt:action="saved"
+      stEvt:instanceID="xmp.iid:d0a74915-9138-4d5b-8e7f-fa98913bac94"
+      stEvt:when="2020-08-31T16:51:08-04:00"
+      stEvt:softwareAgent="Adobe Photoshop 21.2 (Macintosh)"
+      stEvt:changed="/"/>
+    </rdf:Seq>
+   </xmpMM:History>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>
+endstreamendobj122 0 obj<</BitsPerComponent 8/ColorSpace/DeviceRGB/Filter/DCTDecode/Height 594/Intent/RelativeColorimetric/Length 83297/Metadata 121 0 R/Name/X/Subtype/Image/Type/XObject/Width 1104>>stream
+
+
+#$%&'()*23456789:BCDEFGHIJRSTUVWXYZbcdefghijqrstuvwxyz
+
+endstreamendobj123 0 obj<</Length 1627/Subtype/XML/Type/Metadata>>stream
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 6.0-c002 79.164460, 2020/05/12-16:04:17        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+    xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:tiff="http://ns.adobe.com/tiff/1.0/"
+    xmlns:exif="http://ns.adobe.com/exif/1.0/"
+   xmp:CreatorTool="Adobe Photoshop 21.2 (Macintosh)"
+   xmp:CreateDate="2020-09-01T09:32:34-04:00"
+   xmp:MetadataDate="2020-09-01T09:32:34-04:00"
+   xmp:ModifyDate="2020-09-01T09:32:34-04:00"
+   dc:format="application/vnd.adobe.photoshop"
+   xmpMM:InstanceID="xmp.iid:e2f43379-6b26-4c62-9073-babba47dbe15"
+   xmpMM:DocumentID="xmp.did:e2f43379-6b26-4c62-9073-babba47dbe15"
+   xmpMM:OriginalDocumentID="xmp.did:e2f43379-6b26-4c62-9073-babba47dbe15"
+   photoshop:ColorMode="3"
+   photoshop:ICCProfile="Display P3"
+   tiff:Orientation="1"
+   tiff:XResolution="720000/10000"
+   tiff:YResolution="720000/10000"
+   tiff:ResolutionUnit="2"
+   exif:ColorSpace="65535"
+   exif:PixelXDimension="415"
+   exif:PixelYDimension="673">
+   <xmpMM:History>
+    <rdf:Seq>
+     <rdf:li
+      stEvt:action="created"
+      stEvt:instanceID="xmp.iid:e2f43379-6b26-4c62-9073-babba47dbe15"
+      stEvt:when="2020-09-01T09:32:34-04:00"
+      stEvt:softwareAgent="Adobe Photoshop 21.2 (Macintosh)"/>
+    </rdf:Seq>
+   </xmpMM:History>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>
+endstreamendobj124 0 obj<</BitsPerComponent 8/ColorSpace/DeviceRGB/DecodeParms<</BitsPerComponent 8/Colors 3/Columns 415>>/Filter/FlateDecode/Height 673/Intent/RelativeColorimetric/Length 39642/Metadata 123 0 R/Name/X/Subtype/Image/Type/XObject/Width 415>>stream
+H
+
+mendstreamendobj125 0 obj<</Length 1628/Subtype/XML/Type/Metadata>>stream
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 6.0-c002 79.164460, 2020/05/12-16:04:17        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+    xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:tiff="http://ns.adobe.com/tiff/1.0/"
+    xmlns:exif="http://ns.adobe.com/exif/1.0/"
+   xmp:CreatorTool="Adobe Photoshop 21.2 (Macintosh)"
+   xmp:CreateDate="2020-09-10T10:21:55-04:00"
+   xmp:MetadataDate="2020-09-10T10:21:55-04:00"
+   xmp:ModifyDate="2020-09-10T10:21:55-04:00"
+   dc:format="application/vnd.adobe.photoshop"
+   xmpMM:InstanceID="xmp.iid:82661338-b148-4b04-969a-b2b45780d3d8"
+   xmpMM:DocumentID="xmp.did:82661338-b148-4b04-969a-b2b45780d3d8"
+   xmpMM:OriginalDocumentID="xmp.did:82661338-b148-4b04-969a-b2b45780d3d8"
+   photoshop:ColorMode="3"
+   photoshop:ICCProfile="sRGB IEC61966-2.1"
+   tiff:Orientation="1"
+   tiff:XResolution="720000/10000"
+   tiff:YResolution="720000/10000"
+   tiff:ResolutionUnit="2"
+   exif:ColorSpace="1"
+   exif:PixelXDimension="75"
+   exif:PixelYDimension="95">
+   <xmpMM:History>
+    <rdf:Seq>
+     <rdf:li
+      stEvt:action="created"
+      stEvt:instanceID="xmp.iid:82661338-b148-4b04-969a-b2b45780d3d8"
+      stEvt:when="2020-09-10T10:21:55-04:00"
+      stEvt:softwareAgent="Adobe Photoshop 21.2 (Macintosh)"/>
+    </rdf:Seq>
+   </xmpMM:History>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>
+endstreamendobj126 0 obj<</BitsPerComponent 8/ColorSpace/DeviceRGB/Filter/DCTDecode/Height 95/Intent/RelativeColorimetric/Length 7217/Metadata 125 0 R/Name/X/Subtype/Image/Type/XObject/Width 75>>stream
+
+
+"#$%&'()*23456789:BCDEFGHIJRSTUVWXYZabcdefghijqrstuvwxyz
+
+"#$%&'()*23456789:BCDEFGHIJRSTUVWXYZbcdefghijrstuvwxyz
+
+endstreamendobj127 0 obj<</Length 1629/Subtype/XML/Type/Metadata>>stream
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 6.0-c002 79.164460, 2020/05/12-16:04:17        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+    xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:tiff="http://ns.adobe.com/tiff/1.0/"
+    xmlns:exif="http://ns.adobe.com/exif/1.0/"
+   xmp:CreatorTool="Adobe Photoshop 21.2 (Macintosh)"
+   xmp:CreateDate="2020-09-01T09:32:21-04:00"
+   xmp:MetadataDate="2020-09-01T09:32:21-04:00"
+   xmp:ModifyDate="2020-09-01T09:32:21-04:00"
+   dc:format="application/vnd.adobe.photoshop"
+   xmpMM:InstanceID="xmp.iid:b22b2037-f575-42cd-8830-4484dbcadabe"
+   xmpMM:DocumentID="xmp.did:b22b2037-f575-42cd-8830-4484dbcadabe"
+   xmpMM:OriginalDocumentID="xmp.did:b22b2037-f575-42cd-8830-4484dbcadabe"
+   photoshop:ColorMode="3"
+   photoshop:ICCProfile="Display P3"
+   tiff:Orientation="1"
+   tiff:XResolution="1440000/10000"
+   tiff:YResolution="1440000/10000"
+   tiff:ResolutionUnit="2"
+   exif:ColorSpace="65535"
+   exif:PixelXDimension="956"
+   exif:PixelYDimension="512">
+   <xmpMM:History>
+    <rdf:Seq>
+     <rdf:li
+      stEvt:action="created"
+      stEvt:instanceID="xmp.iid:b22b2037-f575-42cd-8830-4484dbcadabe"
+      stEvt:when="2020-09-01T09:32:21-04:00"
+      stEvt:softwareAgent="Adobe Photoshop 21.2 (Macintosh)"/>
+    </rdf:Seq>
+   </xmpMM:History>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>
+endstreamendobj128 0 obj<</BitsPerComponent 8/ColorSpace/DeviceRGB/Filter/DCTDecode/Height 512/Intent/RelativeColorimetric/Length 106227/Metadata 127 0 R/Name/X/Subtype/Image/Type/XObject/Width 956>>stream
+
+
+$%&'()*3456789:CDEFGHIJSTUVWXYZcdefghijrstuvwxyz
+
+endstreamendobj129 0 obj<</CS/DeviceRGB/S/Transparency/Type/Group>>endobj130 0 obj<</ArtBox[0.0 0.0 788.031 595.276]/BleedBox[0.0 0.0 788.031 595.276]/Contents 131 0 R/CropBox[0.0 0.0 788.031 595.276]/MediaBox[0.0 0.0 788.031 595.276]/Parent 237 0 R/PieceInfo<</InDesign<</DocumentID<FEFF0078006D0070002E006400690064003A00370033003100320036003800370064002D0031003300390063002D0034003000330065002D0062003300650066002D003100640061003500390065003200330039003600620035>/LastModified<FEFF0044003A00320030003200300030003900310031003100360035003500300035005A>/NumberofPages 1/OriginalDocumentID<FEFF0078006D0070002E006400690064003A00370033003200310062003000360065002D0062003400370031002D0034003300370039002D0039003100390033002D003100360039003100390031003800630066006600630038>/PageUIDList<</0 20582>>/PageWidthList<</0 788.031>>>>>>/Resources<</ExtGState<</GS0 243 0 R/GS1 187 0 R>>/Font<</T1_0 245 0 R/T1_1 229 0 R/TT0 197 0 R>>/ProcSet[/PDF/Text/ImageC]/XObject<</Fm0 193 0 R/Fm1 194 0 R/Im0 133 0 R>>>>/Rotate 0/TrimBox[0.0 0.0 788.031 595.276]/Type/Page>>endobj131 0 obj<</Filter/FlateDecode/Length 410>>stream
+H
+
+endstreamendobj132 0 obj<</Length 2115/Subtype/XML/Type/Metadata>>stream
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 6.0-c002 79.164460, 2020/05/12-16:04:17        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+    xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:tiff="http://ns.adobe.com/tiff/1.0/"
+    xmlns:exif="http://ns.adobe.com/exif/1.0/"
+   xmp:CreatorTool="Adobe Photoshop 21.2 (Macintosh)"
+   xmp:CreateDate="2020-08-31T14:20:21-04:00"
+   xmp:MetadataDate="2020-08-31T16:53:51-04:00"
+   xmp:ModifyDate="2020-08-31T16:53:51-04:00"
+   dc:format="application/vnd.adobe.photoshop"
+   xmpMM:InstanceID="xmp.iid:fc27a144-4a1c-431b-b6be-eaafb880f572"
+   xmpMM:DocumentID="xmp.did:5c63946b-dd90-477b-b37f-72cece018dfa"
+   xmpMM:OriginalDocumentID="xmp.did:5c63946b-dd90-477b-b37f-72cece018dfa"
+   photoshop:ColorMode="3"
+   photoshop:ICCProfile="Display P3"
+   tiff:Orientation="1"
+   tiff:XResolution="1440000/10000"
+   tiff:YResolution="1440000/10000"
+   tiff:ResolutionUnit="2"
+   exif:ColorSpace="65535"
+   exif:PixelXDimension="3004"
+   exif:PixelYDimension="1694">
+   <xmpMM:History>
+    <rdf:Seq>
+     <rdf:li
+      stEvt:action="created"
+      stEvt:instanceID="xmp.iid:5c63946b-dd90-477b-b37f-72cece018dfa"
+      stEvt:when="2020-08-31T14:20:21-04:00"
+      stEvt:softwareAgent="Adobe Photoshop 21.2 (Macintosh)"/>
+     <rdf:li
+      stEvt:action="saved"
+      stEvt:instanceID="xmp.iid:70a51dcf-1555-4fcb-9311-b840548b8378"
+      stEvt:when="2020-08-31T16:52:11-04:00"
+      stEvt:softwareAgent="Adobe Photoshop 21.2 (Macintosh)"
+      stEvt:changed="/"/>
+     <rdf:li
+      stEvt:action="saved"
+      stEvt:instanceID="xmp.iid:fc27a144-4a1c-431b-b6be-eaafb880f572"
+      stEvt:when="2020-08-31T16:53:51-04:00"
+      stEvt:softwareAgent="Adobe Photoshop 21.2 (Macintosh)"
+      stEvt:changed="/"/>
+    </rdf:Seq>
+   </xmpMM:History>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>
+endstreamendobj133 0 obj<</BitsPerComponent 8/ColorSpace/DeviceRGB/Filter/DCTDecode/Height 1694/Intent/RelativeColorimetric/Length 414528/Metadata 132 0 R/Name/X/Subtype/Image/Type/XObject/Width 2973>>stream
+
+
+$%&'()*3456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
+
+                                                                               
+
+	D@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@A
+
+                                                                                                    
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@A
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@A
+
+                                                                          
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@A
+
+                                                                          
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@A
+
+                                                                          
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@A
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@A
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@A
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@A
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@A
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@A
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@A
+
+                                                                          
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@A
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@A
+
+                                                                          
+
+                                                                          
+
+                                                                         
+
+}@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@A
+
+                                                            
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@A
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@A
+
+5y@                                                                                     
+
+                                                                                                          
+
+                                                                                                          
+
+                                                                                                          
+
+                                                                                                          
+
+                                          
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@A
+
+}@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@A
+
+endstreamendobj134 0 obj<</ArtBox[0.0 0.0 788.031 595.276]/BleedBox[0.0 0.0 788.031 595.276]/Contents 135 0 R/CropBox[0.0 0.0 788.031 595.276]/Group 144 0 R/MediaBox[0.0 0.0 788.031 595.276]/Parent 237 0 R/PieceInfo<</InDesign<</DocumentID<FEFF0078006D0070002E006400690064003A00370033003100320036003800370064002D0031003300390063002D0034003000330065002D0062003300650066002D003100640061003500390065003200330039003600620035>/LastModified<FEFF0044003A00320030003200300030003900310031003100360035003500300036005A>/NumberofPages 1/OriginalDocumentID<FEFF0078006D0070002E006400690064003A00370033003200310062003000360065002D0062003400370031002D0034003300370039002D0039003100390033002D003100360039003100390031003800630066006600630038>/PageUIDList<</0 20754>>/PageWidthList<</0 788.031>>>>>>/Resources<</ExtGState<</GS0 243 0 R/GS1 187 0 R>>/Font<</T1_0 245 0 R/TT0 197 0 R>>/ProcSet[/PDF/Text/ImageC]/XObject<</Fm0 193 0 R/Fm1 194 0 R/Im0 139 0 R/Im1 143 0 R>>>>/Rotate 0/TrimBox[0.0 0.0 788.031 595.276]/Type/Page>>endobj135 0 obj<</Filter/FlateDecode/Length 342>>stream
+H
+
+vyendstreamendobj136 0 obj<</Length 3863/Subtype/XML/Type/Metadata>>stream
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 6.0-c002 79.164460, 2020/05/12-16:04:17        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+    xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+    xmlns:tiff="http://ns.adobe.com/tiff/1.0/"
+    xmlns:exif="http://ns.adobe.com/exif/1.0/"
+   xmp:CreatorTool="Adobe Photoshop CS6 (Windows)"
+   xmp:CreateDate="2015-03-17T12:00:12-03:00"
+   xmp:ModifyDate="2020-08-31T16:50:03-04:00"
+   xmp:MetadataDate="2020-08-31T16:50:03-04:00"
+   dc:format="application/vnd.adobe.photoshop"
+   photoshop:ColorMode="3"
+   photoshop:ICCProfile="sRGB IEC61966-2.1"
+   xmpMM:InstanceID="xmp.iid:357b6a3f-8ae1-4ad0-8a7b-e2bade2feef2"
+   xmpMM:DocumentID="xmp.did:83750114B2CCE41191C98E68C0EA668C"
+   xmpMM:OriginalDocumentID="xmp.did:83750114B2CCE41191C98E68C0EA668C"
+   tiff:Orientation="1"
+   tiff:XResolution="720000/10000"
+   tiff:YResolution="720000/10000"
+   tiff:ResolutionUnit="2"
+   exif:ColorSpace="1"
+   exif:PixelXDimension="3600"
+   exif:PixelYDimension="2600">
+   <photoshop:DocumentAncestors>
+    <rdf:Bag>
+     <rdf:li>455E28ACC9C204AE3125752AA04B8B7A</rdf:li>
+     <rdf:li>AB3899BFD3C24D4F43F52B03C6B1818A</rdf:li>
+     <rdf:li>uuid:96A7271F1842DE11BB6BE96DBBAA8911</rdf:li>
+     <rdf:li>uuid:B0F4A38D097DE011BBA9E922594FEA2F</rdf:li>
+     <rdf:li>uuid:C555904085FEDE11AACBCA1B87D39566</rdf:li>
+     <rdf:li>xmp.did:01801174072068119109F305646EB57D</rdf:li>
+     <rdf:li>xmp.did:05801174072068118DBBFA659908F426</rdf:li>
+     <rdf:li>xmp.did:0880117407206811871FA0C171ADCD10</rdf:li>
+     <rdf:li>xmp.did:13035426479F11E1A9C08419683F1A74</rdf:li>
+     <rdf:li>xmp.did:1AFFB7E90EFDE111AA9E9A5BC1B6D795</rdf:li>
+     <rdf:li>xmp.did:2ACF258E325DE011A1A5CBD15F1C5D8A</rdf:li>
+     <rdf:li>xmp.did:441724DEC92068118A6DA112E1F1BEAB</rdf:li>
+     <rdf:li>xmp.did:4B03863637E5DE119ED798FC05066ECF</rdf:li>
+     <rdf:li>xmp.did:4C1724DEC92068118A6DA112E1F1BEAB</rdf:li>
+     <rdf:li>xmp.did:50F1CED455206811871F9AE30E7726C7</rdf:li>
+     <rdf:li>xmp.did:74117FE3200711688D4AD6287EFEE6AB</rdf:li>
+     <rdf:li>xmp.did:7AB3740DC2E4DE11950B8D824A6ABDAE</rdf:li>
+     <rdf:li>xmp.did:83750114B2CCE41191C98E68C0EA668C</rdf:li>
+     <rdf:li>xmp.did:8CFA6888BDC9E0118A1894B66E94A91C</rdf:li>
+     <rdf:li>xmp.did:9ABC653B3EEDDE11B5C9E3685736E1A9</rdf:li>
+     <rdf:li>xmp.did:9E7209399238E4118596A951246124BC</rdf:li>
+     <rdf:li>xmp.did:A83415DA5957E311B8E384C6A4F7CDD7</rdf:li>
+     <rdf:li>xmp.did:D837CE8728E6DF11A1C8A497804C2360</rdf:li>
+     <rdf:li>xmp.did:DA3110B904E6DE11BEADD048C79CAD43</rdf:li>
+     <rdf:li>xmp.did:F0EC54C91EF0E011BF318C473C42BF32</rdf:li>
+     <rdf:li>xmp.did:F77F11740720681180839499B4388E9A</rdf:li>
+     <rdf:li>xmp.did:FC50B15F3F26E0119FA090009A4DF53D</rdf:li>
+    </rdf:Bag>
+   </photoshop:DocumentAncestors>
+   <xmpMM:History>
+    <rdf:Seq>
+     <rdf:li
+      stEvt:action="created"
+      stEvt:instanceID="xmp.iid:83750114B2CCE41191C98E68C0EA668C"
+      stEvt:when="2015-03-17T12:00:12-03:00"
+      stEvt:softwareAgent="Adobe Photoshop CS6 (Windows)"/>
+     <rdf:li
+      stEvt:action="saved"
+      stEvt:instanceID="xmp.iid:419E7E1BCDCCE41191C98E68C0EA668C"
+      stEvt:when="2015-03-17T14:43:22-03:00"
+      stEvt:softwareAgent="Adobe Photoshop CS6 (Windows)"
+      stEvt:changed="/"/>
+     <rdf:li
+      stEvt:action="saved"
+      stEvt:instanceID="xmp.iid:357b6a3f-8ae1-4ad0-8a7b-e2bade2feef2"
+      stEvt:when="2020-08-31T16:50:03-04:00"
+      stEvt:softwareAgent="Adobe Photoshop 21.2 (Macintosh)"
+      stEvt:changed="/"/>
+    </rdf:Seq>
+   </xmpMM:History>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>
+endstreamendobj137 0 obj<</Length 3863/Subtype/XML/Type/Metadata>>stream
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 6.0-c002 79.164460, 2020/05/12-16:04:17        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+    xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+    xmlns:tiff="http://ns.adobe.com/tiff/1.0/"
+    xmlns:exif="http://ns.adobe.com/exif/1.0/"
+   xmp:CreatorTool="Adobe Photoshop CS6 (Windows)"
+   xmp:CreateDate="2015-03-17T12:00:12-03:00"
+   xmp:ModifyDate="2020-08-31T16:50:03-04:00"
+   xmp:MetadataDate="2020-08-31T16:50:03-04:00"
+   dc:format="application/vnd.adobe.photoshop"
+   photoshop:ColorMode="3"
+   photoshop:ICCProfile="sRGB IEC61966-2.1"
+   xmpMM:InstanceID="xmp.iid:357b6a3f-8ae1-4ad0-8a7b-e2bade2feef2"
+   xmpMM:DocumentID="xmp.did:83750114B2CCE41191C98E68C0EA668C"
+   xmpMM:OriginalDocumentID="xmp.did:83750114B2CCE41191C98E68C0EA668C"
+   tiff:Orientation="1"
+   tiff:XResolution="720000/10000"
+   tiff:YResolution="720000/10000"
+   tiff:ResolutionUnit="2"
+   exif:ColorSpace="1"
+   exif:PixelXDimension="3600"
+   exif:PixelYDimension="2600">
+   <photoshop:DocumentAncestors>
+    <rdf:Bag>
+     <rdf:li>455E28ACC9C204AE3125752AA04B8B7A</rdf:li>
+     <rdf:li>AB3899BFD3C24D4F43F52B03C6B1818A</rdf:li>
+     <rdf:li>uuid:96A7271F1842DE11BB6BE96DBBAA8911</rdf:li>
+     <rdf:li>uuid:B0F4A38D097DE011BBA9E922594FEA2F</rdf:li>
+     <rdf:li>uuid:C555904085FEDE11AACBCA1B87D39566</rdf:li>
+     <rdf:li>xmp.did:01801174072068119109F305646EB57D</rdf:li>
+     <rdf:li>xmp.did:05801174072068118DBBFA659908F426</rdf:li>
+     <rdf:li>xmp.did:0880117407206811871FA0C171ADCD10</rdf:li>
+     <rdf:li>xmp.did:13035426479F11E1A9C08419683F1A74</rdf:li>
+     <rdf:li>xmp.did:1AFFB7E90EFDE111AA9E9A5BC1B6D795</rdf:li>
+     <rdf:li>xmp.did:2ACF258E325DE011A1A5CBD15F1C5D8A</rdf:li>
+     <rdf:li>xmp.did:441724DEC92068118A6DA112E1F1BEAB</rdf:li>
+     <rdf:li>xmp.did:4B03863637E5DE119ED798FC05066ECF</rdf:li>
+     <rdf:li>xmp.did:4C1724DEC92068118A6DA112E1F1BEAB</rdf:li>
+     <rdf:li>xmp.did:50F1CED455206811871F9AE30E7726C7</rdf:li>
+     <rdf:li>xmp.did:74117FE3200711688D4AD6287EFEE6AB</rdf:li>
+     <rdf:li>xmp.did:7AB3740DC2E4DE11950B8D824A6ABDAE</rdf:li>
+     <rdf:li>xmp.did:83750114B2CCE41191C98E68C0EA668C</rdf:li>
+     <rdf:li>xmp.did:8CFA6888BDC9E0118A1894B66E94A91C</rdf:li>
+     <rdf:li>xmp.did:9ABC653B3EEDDE11B5C9E3685736E1A9</rdf:li>
+     <rdf:li>xmp.did:9E7209399238E4118596A951246124BC</rdf:li>
+     <rdf:li>xmp.did:A83415DA5957E311B8E384C6A4F7CDD7</rdf:li>
+     <rdf:li>xmp.did:D837CE8728E6DF11A1C8A497804C2360</rdf:li>
+     <rdf:li>xmp.did:DA3110B904E6DE11BEADD048C79CAD43</rdf:li>
+     <rdf:li>xmp.did:F0EC54C91EF0E011BF318C473C42BF32</rdf:li>
+     <rdf:li>xmp.did:F77F11740720681180839499B4388E9A</rdf:li>
+     <rdf:li>xmp.did:FC50B15F3F26E0119FA090009A4DF53D</rdf:li>
+    </rdf:Bag>
+   </photoshop:DocumentAncestors>
+   <xmpMM:History>
+    <rdf:Seq>
+     <rdf:li
+      stEvt:action="created"
+      stEvt:instanceID="xmp.iid:83750114B2CCE41191C98E68C0EA668C"
+      stEvt:when="2015-03-17T12:00:12-03:00"
+      stEvt:softwareAgent="Adobe Photoshop CS6 (Windows)"/>
+     <rdf:li
+      stEvt:action="saved"
+      stEvt:instanceID="xmp.iid:419E7E1BCDCCE41191C98E68C0EA668C"
+      stEvt:when="2015-03-17T14:43:22-03:00"
+      stEvt:softwareAgent="Adobe Photoshop CS6 (Windows)"
+      stEvt:changed="/"/>
+     <rdf:li
+      stEvt:action="saved"
+      stEvt:instanceID="xmp.iid:357b6a3f-8ae1-4ad0-8a7b-e2bade2feef2"
+      stEvt:when="2020-08-31T16:50:03-04:00"
+      stEvt:softwareAgent="Adobe Photoshop 21.2 (Macintosh)"
+      stEvt:changed="/"/>
+    </rdf:Seq>
+   </xmpMM:History>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>
+endstreamendobj138 0 obj<</BitsPerComponent 8/ColorSpace/DeviceGray/Filter/DCTDecode/Height 1550/Intent/RelativeColorimetric/Length 14296/Metadata 137 0 R/Name/X/Subtype/Image/Type/XObject/Width 2198>>stream
+
+
+!"#$%&'()*123456789:ABCDEFGHIJQRSTUVWXYZabcdefghijqrstuvwxyz
+
+endstreamendobj139 0 obj<</BitsPerComponent 8/ColorSpace/DeviceRGB/Filter/DCTDecode/Height 1550/Intent/RelativeColorimetric/Length 85041/Metadata 136 0 R/Name/X/SMask 138 0 R/Subtype/Image/Type/XObject/Width 2198>>stream
+
+
+"#$%&'()*123456789:ABCDEFGHIJRSTUVWXYZbcdefghijqrstuvwxyz
+
+n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n`n@n`n`n`n`n`n`n`n`n`n`
+
+endstreamendobj140 0 obj<</Length 492/Subtype/XML/Type/Metadata>>stream
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 6.0-c002 79.164460, 2020/05/12-16:04:17        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:exif="http://ns.adobe.com/exif/1.0/"
+   exif:PixelXDimension="1280"
+   exif:PixelYDimension="935">
+   <exif:UserComment>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">Screenshot</rdf:li>
+    </rdf:Alt>
+   </exif:UserComment>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>
+endstreamendobj141 0 obj<</Length 492/Subtype/XML/Type/Metadata>>stream
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 6.0-c002 79.164460, 2020/05/12-16:04:17        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:exif="http://ns.adobe.com/exif/1.0/"
+   exif:PixelXDimension="1280"
+   exif:PixelYDimension="935">
+   <exif:UserComment>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">Screenshot</rdf:li>
+    </rdf:Alt>
+   </exif:UserComment>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>
+endstreamendobj142 0 obj<</BitsPerComponent 8/ColorSpace/DeviceGray/Filter/DCTDecode/Height 803/Intent/RelativeColorimetric/Length 4772/Metadata 141 0 R/Name/X/Subtype/Image/Type/XObject/Width 1280>>stream
+
+
+!"#$%&'()*123456789:ABCDEFGHIJQRSTUVWXYZabcdefghijqrstuvwxyz
+
+endstreamendobj143 0 obj<</BitsPerComponent 8/ColorSpace/DeviceRGB/DecodeParms<</BitsPerComponent 8/Colors 3/Columns 1280>>/Filter/FlateDecode/Height 803/Intent/RelativeColorimetric/Length 88839/Metadata 140 0 R/Name/X/SMask 142 0 R/Subtype/Image/Type/XObject/Width 1280>>stream
+H
+
+endstreamendobj144 0 obj<</CS/DeviceRGB/S/Transparency/Type/Group>>endobj145 0 obj<</ArtBox[0.0 0.0 788.031 595.276]/BleedBox[0.0 0.0 788.031 595.276]/Contents 146 0 R/CropBox[0.0 0.0 788.031 595.276]/MediaBox[0.0 0.0 788.031 595.276]/Parent 237 0 R/PieceInfo<</InDesign<</DocumentID<FEFF0078006D0070002E006400690064003A00370033003100320036003800370064002D0031003300390063002D0034003000330065002D0062003300650066002D003100640061003500390065003200330039003600620035>/LastModified<FEFF0044003A00320030003200300030003900310031003100360035003500300036005A>/NumberofPages 1/OriginalDocumentID<FEFF0078006D0070002E006400690064003A00370033003200310062003000360065002D0062003400370031002D0034003300370039002D0039003100390033002D003100360039003100390031003800630066006600630038>/PageUIDList<</0 20755>>/PageWidthList<</0 788.031>>>>>>/Resources<</ExtGState<</GS0 243 0 R/GS1 187 0 R>>/Font<</T1_0 245 0 R/TT0 197 0 R>>/ProcSet[/PDF/Text]/XObject<</Fm0 193 0 R/Fm1 194 0 R>>>>/Rotate 0/TrimBox[0.0 0.0 788.031 595.276]/Type/Page>>endobj146 0 obj<</Filter/FlateDecode/Length 194>>stream
+H
+
+=?endstreamendobj147 0 obj<</ArtBox[0.0 0.0 788.031 595.276]/BleedBox[0.0 0.0 788.031 595.276]/Contents 148 0 R/CropBox[0.0 0.0 788.031 595.276]/MediaBox[0.0 0.0 788.031 595.276]/Parent 237 0 R/PieceInfo<</InDesign<</DocumentID<FEFF0078006D0070002E006400690064003A00370033003100320036003800370064002D0031003300390063002D0034003000330065002D0062003300650066002D003100640061003500390065003200330039003600620035>/LastModified<FEFF0044003A00320030003200300030003900310031003100360035003500300036005A>/NumberofPages 1/OriginalDocumentID<FEFF0078006D0070002E006400690064003A00370033003200310062003000360065002D0062003400370031002D0034003300370039002D0039003100390033002D003100360039003100390031003800630066006600630038>/PageUIDList<</0 24870>>/PageWidthList<</0 788.031>>>>>>/Resources<</ColorSpace<</CS0 219 0 R>>/ExtGState<</GS0 243 0 R/GS1 187 0 R>>/Font<</T1_0 245 0 R/T1_1 221 0 R/T1_2 229 0 R/TT0 197 0 R>>/ProcSet[/PDF/Text]/XObject<</Fm0 193 0 R/Fm1 194 0 R>>>>/Rotate 0/TrimBox[0.0 0.0 788.031 595.276]/Type/Page>>endobj148 0 obj<</Filter/FlateDecode/Length 5767>>stream
+H
+
+endstreamendobj149 0 obj<</Annots 150 0 R/ArtBox[0.0 0.0 788.031 595.276]/BleedBox[0.0 0.0 788.031 595.276]/Contents 153 0 R/CropBox[0.0 0.0 788.031 595.276]/Group 183 0 R/MediaBox[0.0 0.0 788.031 595.276]/Parent 237 0 R/PieceInfo<</InDesign<</DocumentID<FEFF0078006D0070002E006400690064003A00370033003100320036003800370064002D0031003300390063002D0034003000330065002D0062003300650066002D003100640061003500390065003200330039003600620035>/LastModified<FEFF0044003A00320030003200300030003900310031003100360035003500300036005A>/NumberofPages 1/OriginalDocumentID<FEFF0078006D0070002E006400690064003A00370033003200310062003000360065002D0062003400370031002D0034003300370039002D0039003100390033002D003100360039003100390031003800630066006600630038>/PageUIDList<</0 21275>>/PageWidthList<</0 788.031>>>>>>/Resources<</ExtGState<</GS0 243 0 R/GS1 154 0 R/GS2 187 0 R>>/Font<</T1_0 245 0 R/T1_1 195 0 R/TT0 197 0 R>>/ProcSet[/PDF/Text]/XObject<</Fm0 156 0 R/Fm1 158 0 R/Fm10 160 0 R/Fm11 162 0 R/Fm12 164 0 R/Fm2 166 0 R/Fm3 168 0 R/Fm4 170 0 R/Fm5 172 0 R/Fm6 174 0 R/Fm7 176 0 R/Fm8 178 0 R/Fm9 180 0 R>>>>/Rotate 0/TrimBox[0.0 0.0 788.031 595.276]/Type/Page>>endobj150 0 obj[151 0 R 152 0 R]endobj151 0 obj<</A 181 0 R/BS<</S/S/Type/Border/W 0>>/Border[0 0 0]/H/N/Rect[38.7187 257.918 116.395 249.142]/Subtype/Link/Type/Annot>>endobj152 0 obj<</A 182 0 R/BS<</S/S/Type/Border/W 0>>/Border[0 0 0]/H/N/Rect[40.5 106.046 274.138 80.2289]/Subtype/Link/Type/Annot>>endobj153 0 obj<</Filter/FlateDecode/Length 62168>>stream
+H
+
+endstreamendobj154 0 obj<</AIS false/BM/Normal/CA 0.100006/OP false/OPM 1/SA true/SMask/None/Type/ExtGState/ca 0.100006/op false>>endobj155 0 obj<</CS/DeviceRGB/I false/K false/S/Transparency/Type/Group>>endobj156 0 obj<</BBox[112.612 376.445 133.317 355.74]/Filter/FlateDecode/Group 155 0 R/Length 129/Matrix[1.0 0.0 0.0 1.0 0.0 0.0]/Resources<</ExtGState<</GS0 243 0 R>>>>/Subtype/Form>>stream
+H
+
+w)`endstreamendobj157 0 obj<</CS/DeviceRGB/I false/K false/S/Transparency/Type/Group>>endobj158 0 obj<</BBox[119.132 365.961 139.836 345.256]/Filter/FlateDecode/Group 157 0 R/Length 129/Matrix[1.0 0.0 0.0 1.0 0.0 0.0]/Resources<</ExtGState<</GS0 243 0 R>>>>/Subtype/Form>>stream
+H
+
+)bendstreamendobj159 0 obj<</CS/DeviceRGB/I false/K false/S/Transparency/Type/Group>>endobj160 0 obj<</BBox[654.313 373.898 675.017 353.193]/Filter/FlateDecode/Group 159 0 R/Length 129/Matrix[1.0 0.0 0.0 1.0 0.0 0.0]/Resources<</ExtGState<</GS0 243 0 R>>>>/Subtype/Form>>stream
+H
+
+T)pendstreamendobj161 0 obj<</CS/DeviceRGB/I false/K false/S/Transparency/Type/Group>>endobj162 0 obj<</BBox[682.376 370.775 703.08 350.071]/Filter/FlateDecode/Group 161 0 R/Length 129/Matrix[1.0 0.0 0.0 1.0 0.0 0.0]/Resources<</ExtGState<</GS0 243 0 R>>>>/Subtype/Form>>stream
+H
+
++)nendstreamendobj163 0 obj<</CS/DeviceRGB/I false/K false/S/Transparency/Type/Group>>endobj164 0 obj<</BBox[247.541 219.693 268.246 198.988]/Filter/FlateDecode/Group 163 0 R/Length 128/Matrix[1.0 0.0 0.0 1.0 0.0 0.0]/Resources<</ExtGState<</GS0 243 0 R>>>>/Subtype/Form>>stream
+H
+
+`)pendstreamendobj165 0 obj<</CS/DeviceRGB/I false/K false/S/Transparency/Type/Group>>endobj166 0 obj<</BBox[199.352 375.882 220.057 355.177]/Filter/FlateDecode/Group 165 0 R/Length 129/Matrix[1.0 0.0 0.0 1.0 0.0 0.0]/Resources<</ExtGState<</GS0 243 0 R>>>>/Subtype/Form>>stream
+H
+
+)gendstreamendobj167 0 obj<</CS/DeviceRGB/I false/K false/S/Transparency/Type/Group>>endobj168 0 obj<</BBox[220.612 376.165 241.317 355.461]/Filter/FlateDecode/Group 167 0 R/Length 128/Matrix[1.0 0.0 0.0 1.0 0.0 0.0]/Resources<</ExtGState<</GS0 243 0 R>>>>/Subtype/Form>>stream
+H
+
+*)^endstreamendobj169 0 obj<</CS/DeviceRGB/I false/K false/S/Transparency/Type/Group>>endobj170 0 obj<</BBox[228.266 386.366 248.97 365.661]/Filter/FlateDecode/Group 169 0 R/Length 129/Matrix[1.0 0.0 0.0 1.0 0.0 0.0]/Resources<</ExtGState<</GS0 243 0 R>>>>/Subtype/Form>>stream
+H
+
+)eendstreamendobj171 0 obj<</CS/DeviceRGB/I false/K false/S/Transparency/Type/Group>>endobj172 0 obj<</BBox[376.234 405.079 396.939 384.374]/Filter/FlateDecode/Group 171 0 R/Length 129/Matrix[1.0 0.0 0.0 1.0 0.0 0.0]/Resources<</ExtGState<</GS0 243 0 R>>>>/Subtype/Form>>stream
+H
+
+u)jendstreamendobj173 0 obj<</CS/DeviceRGB/I false/K false/S/Transparency/Type/Group>>endobj174 0 obj<</BBox[382.754 392.323 403.458 371.618]/Filter/FlateDecode/Group 173 0 R/Length 129/Matrix[1.0 0.0 0.0 1.0 0.0 0.0]/Resources<</ExtGState<</GS0 243 0 R>>>>/Subtype/Form>>stream
+H
+
+~)Wendstreamendobj175 0 obj<</CS/DeviceRGB/I false/K false/S/Transparency/Type/Group>>endobj176 0 obj<</BBox[402.88 401.961 423.584 381.256]/Filter/FlateDecode/Group 175 0 R/Length 129/Matrix[1.0 0.0 0.0 1.0 0.0 0.0]/Resources<</ExtGState<</GS0 243 0 R>>>>/Subtype/Form>>stream
+H
+
+)Mendstreamendobj177 0 obj<</CS/DeviceRGB/I false/K false/S/Transparency/Type/Group>>endobj178 0 obj<</BBox[550.565 350.654 571.269 329.949]/Filter/FlateDecode/Group 177 0 R/Length 128/Matrix[1.0 0.0 0.0 1.0 0.0 0.0]/Resources<</ExtGState<</GS0 243 0 R>>>>/Subtype/Form>>stream
+H
+
+D)dendstreamendobj179 0 obj<</CS/DeviceRGB/I false/K false/S/Transparency/Type/Group>>endobj180 0 obj<</BBox[636.844 359.157 657.549 338.453]/Filter/FlateDecode/Group 179 0 R/Length 130/Matrix[1.0 0.0 0.0 1.0 0.0 0.0]/Resources<</ExtGState<</GS0 243 0 R>>>>/Subtype/Form>>stream
+H
+
+)mendstreamendobj181 0 obj<</IsMap false/S/URI/URI(https://monotype.com/loreal)>>endobj182 0 obj<</IsMap false/S/URI/URI(mailto:loreal@monotype.com)>>endobj183 0 obj<</CS/DeviceRGB/S/Transparency/Type/Group>>endobj184 0 obj<</Ascent 1036/CapHeight 712/CharSet(/fl/uni00A0/fi/space/exclam/ampersand/quotesingle/parenleft/parenright/plus/comma/hyphen/period/slash/zero/one/two/three/four/five/six/seven/eight/nine/colon/at/A/B/C/D/E/F/G/H/I/J/K/L/M/N/O/P/R/S/T/U/V/W/X/Y/a/b/c/d/e/f/g/h/i/j/k/l/m/n/o/p/q/r/s/t/u/v/w/\x/y/ellipsis/quoteright/bullet/endash/Eacute/Ocircumflex/germandbls/oacute)/Descent -328/Flags 32/FontBBox[-826 -328 1385 1036]/FontFamily(Helvetica Now MT Text)/FontFile3 185 0 R/FontName/CAZQIS+HelveticaNowMTText-Regular/FontStretch/Normal/FontWeight 400/ItalicAngle 0/StemV 92/Type/FontDescriptor/XHeight 516>>endobj185 0 obj<</Filter/FlateDecode/Length 4033/Subtype/Type1C>>stream
+H
+
+Q{endstreamendobj186 0 obj<</BaseEncoding/WinAnsiEncoding/Differences[29/fl/uni00A0/fi]/Type/Encoding>>endobj187 0 obj<</AIS false/BM/Normal/CA 1.0/OP true/OPM 1/SA true/SMask/None/Type/ExtGState/ca 1.0/op true>>endobj188 0 obj<</BaseFont/CAZQIS+HelveticaNowMTText-Bold/Encoding/WinAnsiEncoding/FirstChar 32/FontDescriptor 189 0 R/LastChar 121/Subtype/TrueType/ToUnicode 190 0 R/Type/Font/Widths[272 0 0 0 0 0 0 0 0 0 0 0 0 0 307 521 0 0 0 0 0 0 0 0 0 0 307 0 0 0 0 0 0 0 695 0 0 654 595 0 726 300 0 714 602 852 727 0 0 0 0 677 0 0 0 0 0 0 0 0 0 0 0 0 0 579 616 569 616 605 391 616 600 283 0 0 334 887 600 614 616 0 400 559 382 600 536 799 0 578]>>endobj189 0 obj<</Ascent 1031/CapHeight 712/Descent -353/Flags 32/FontBBox[-813 -353 1375 1031]/FontFamily(Helvetica Now MT Text)/FontFile2 199 0 R/FontName/CAZQIS+HelveticaNowMTText-Bold/FontStretch/Normal/FontWeight 700/ItalicAngle 0/StemV 140/Type/FontDescriptor/XHeight 516>>endobj190 0 obj<</Filter/FlateDecode/Length 387>>stream
+H
+
+endstreamendobj191 0 obj<</Ascent 1038/CapHeight 712/Descent -356/Flags 32/FontBBox[-567 -356 1450 1038]/FontFamily(Helvetica Now MT Text XtraBd)/FontFile2 192 0 R/FontName/CAZQIS+HelveticaNowMTText-XtraBd/FontStretch/Normal/FontWeight 800/ItalicAngle 0/StemV 172/Type/FontDescriptor/XHeight 516>>endobj192 0 obj<</Filter/FlateDecode/Length 8559/Length1 16022>>stream
+H
+
+endstreamendobj193 0 obj<</BBox[0.0 595.276 788.031 0.0]/Filter/FlateDecode/Length 56/Matrix[1.0 0.0 0.0 1.0 0.0 0.0]/Resources<</ExtGState<</GS0 243 0 R>>>>/Subtype/Form>>stream
+H
+
+endstreamendobj194 0 obj<</BBox[0.0 595.276 788.031 0.0]/Filter/FlateDecode/Length 1007/Matrix[1.0 0.0 0.0 1.0 0.0 0.0]/Resources<</ExtGState<</GS0 243 0 R>>>>/Subtype/Form>>stream
+H
+
+endstreamendobj195 0 obj<</BaseFont/CAZQIS+HelveticaNowMTText-Regular/Encoding 186 0 R/FirstChar 29/FontDescriptor 184 0 R/LastChar 243/Subtype/Type1/ToUnicode 196 0 R/Type/Font/Widths[652 270 610 270 273 0 0 0 0 783 241 339 339 0 640 300 380 283 468 640 449 640 640 640 640 640 640 640 640 283 0 0 0 0 0 1080 716 713 732 713 658 597 807 733 263 547 714 589 875 736 801 647 0 674 668 649 720 679 955 682 684 0 0 0 0 0 0 0 570 601 557 601 579 358 606 594 252 252 556 294 866 594 597 601 601 368 504 347 594 528 772 564 539 0 0 0 0 0 0 0 0 0 0 0 839 0 0 0 0 0 0 0 0 0 0 0 0 204 0 0 366 535 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 658 0 0 0 0 0 0 0 0 0 0 801 0 0 0 0 0 0 0 0 0 0 605 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 597]>>endobj196 0 obj<</Filter/FlateDecode/Length 604>>stream
+H
+
+endstreamendobj197 0 obj<</BaseFont/CAZQIS+HelveticaNowMTText-XtraBd/Encoding/WinAnsiEncoding/FirstChar 32/FontDescriptor 191 0 R/LastChar 243/Subtype/TrueType/ToUnicode 198 0 R/Type/Font/Widths[267 0 0 0 0 0 0 0 0 0 0 0 0 0 0 547 719 498 719 719 719 719 719 719 719 719 0 0 0 0 0 0 0 764 721 744 0 0 619 779 748 322 623 754 610 0 754 0 681 0 0 699 651 746 0 1014 0 720 0 0 0 0 0 0 0 611 631 591 631 615 0 631 624 293 0 615 346 927 624 622 631 631 433 582 417 624 0 847 0 591 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 622]>>endobj198 0 obj<</Filter/FlateDecode/Length 458>>stream
+H
+
+endstreamendobj199 0 obj<</Filter/FlateDecode/Length 7309/Length1 14368>>stream
+H
+
+Aendstreamendobj200 0 obj<</BitsPerComponent 8/ColorSpace/DeviceRGB/Filter/DCTDecode/Height 1547/Intent/RelativeColorimetric/Length 69960/Metadata 204 0 R/Name/X/SMask 201 0 R/Subtype/Image/Type/XObject/Width 2198>>stream
+
+
+$%&'()*46789:BDFGHIJVWXYZbcdefghijuvwxyz
+
+"#$%&'()*123456789:ABCDEFGHIJRSTUVWXYZbcdefghijqrstuvwxyz
+
+endstreamendobj201 0 obj<</BitsPerComponent 8/ColorSpace/DeviceGray/Filter/DCTDecode/Height 1547/Intent/RelativeColorimetric/Length 14296/Metadata 202 0 R/Name/X/Subtype/Image/Type/XObject/Width 2198>>stream
+
+
+!"#$%&'()*123456789:ABCDEFGHIJQRSTUVWXYZabcdefghijqrstuvwxyz
+
+endstreamendobj202 0 obj<</Length 3881/Subtype/XML/Type/Metadata>>stream
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 6.0-c002 79.164460, 2020/05/12-16:04:17        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+    xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+    xmlns:tiff="http://ns.adobe.com/tiff/1.0/"
+    xmlns:exif="http://ns.adobe.com/exif/1.0/"
+   xmp:CreatorTool="Adobe Photoshop CS6 (Windows)"
+   xmp:CreateDate="2015-03-17T12:00:12-03:00"
+   xmp:ModifyDate="2020-09-10T08:51:30-04:00"
+   xmp:MetadataDate="2020-09-10T08:51:30-04:00"
+   dc:format="application/vnd.adobe.photoshop"
+   photoshop:ColorMode="3"
+   photoshop:ICCProfile="sRGB IEC61966-2.1"
+   xmpMM:InstanceID="xmp.iid:9aea9dc3-d89f-4ce8-a6a7-49817697111b"
+   xmpMM:DocumentID="adobe:docid:photoshop:ab2bdedb-7c8c-ad4d-af45-21d015eb76fa"
+   xmpMM:OriginalDocumentID="xmp.did:83750114B2CCE41191C98E68C0EA668C"
+   tiff:Orientation="1"
+   tiff:XResolution="720000/10000"
+   tiff:YResolution="720000/10000"
+   tiff:ResolutionUnit="2"
+   exif:ColorSpace="1"
+   exif:PixelXDimension="3600"
+   exif:PixelYDimension="2600">
+   <photoshop:DocumentAncestors>
+    <rdf:Bag>
+     <rdf:li>455E28ACC9C204AE3125752AA04B8B7A</rdf:li>
+     <rdf:li>AB3899BFD3C24D4F43F52B03C6B1818A</rdf:li>
+     <rdf:li>uuid:96A7271F1842DE11BB6BE96DBBAA8911</rdf:li>
+     <rdf:li>uuid:B0F4A38D097DE011BBA9E922594FEA2F</rdf:li>
+     <rdf:li>uuid:C555904085FEDE11AACBCA1B87D39566</rdf:li>
+     <rdf:li>xmp.did:01801174072068119109F305646EB57D</rdf:li>
+     <rdf:li>xmp.did:05801174072068118DBBFA659908F426</rdf:li>
+     <rdf:li>xmp.did:0880117407206811871FA0C171ADCD10</rdf:li>
+     <rdf:li>xmp.did:13035426479F11E1A9C08419683F1A74</rdf:li>
+     <rdf:li>xmp.did:1AFFB7E90EFDE111AA9E9A5BC1B6D795</rdf:li>
+     <rdf:li>xmp.did:2ACF258E325DE011A1A5CBD15F1C5D8A</rdf:li>
+     <rdf:li>xmp.did:441724DEC92068118A6DA112E1F1BEAB</rdf:li>
+     <rdf:li>xmp.did:4B03863637E5DE119ED798FC05066ECF</rdf:li>
+     <rdf:li>xmp.did:4C1724DEC92068118A6DA112E1F1BEAB</rdf:li>
+     <rdf:li>xmp.did:50F1CED455206811871F9AE30E7726C7</rdf:li>
+     <rdf:li>xmp.did:74117FE3200711688D4AD6287EFEE6AB</rdf:li>
+     <rdf:li>xmp.did:7AB3740DC2E4DE11950B8D824A6ABDAE</rdf:li>
+     <rdf:li>xmp.did:83750114B2CCE41191C98E68C0EA668C</rdf:li>
+     <rdf:li>xmp.did:8CFA6888BDC9E0118A1894B66E94A91C</rdf:li>
+     <rdf:li>xmp.did:9ABC653B3EEDDE11B5C9E3685736E1A9</rdf:li>
+     <rdf:li>xmp.did:9E7209399238E4118596A951246124BC</rdf:li>
+     <rdf:li>xmp.did:A83415DA5957E311B8E384C6A4F7CDD7</rdf:li>
+     <rdf:li>xmp.did:D837CE8728E6DF11A1C8A497804C2360</rdf:li>
+     <rdf:li>xmp.did:DA3110B904E6DE11BEADD048C79CAD43</rdf:li>
+     <rdf:li>xmp.did:F0EC54C91EF0E011BF318C473C42BF32</rdf:li>
+     <rdf:li>xmp.did:F77F11740720681180839499B4388E9A</rdf:li>
+     <rdf:li>xmp.did:FC50B15F3F26E0119FA090009A4DF53D</rdf:li>
+    </rdf:Bag>
+   </photoshop:DocumentAncestors>
+   <xmpMM:History>
+    <rdf:Seq>
+     <rdf:li
+      stEvt:action="created"
+      stEvt:instanceID="xmp.iid:83750114B2CCE41191C98E68C0EA668C"
+      stEvt:when="2015-03-17T12:00:12-03:00"
+      stEvt:softwareAgent="Adobe Photoshop CS6 (Windows)"/>
+     <rdf:li
+      stEvt:action="saved"
+      stEvt:instanceID="xmp.iid:419E7E1BCDCCE41191C98E68C0EA668C"
+      stEvt:when="2015-03-17T14:43:22-03:00"
+      stEvt:softwareAgent="Adobe Photoshop CS6 (Windows)"
+      stEvt:changed="/"/>
+     <rdf:li
+      stEvt:action="saved"
+      stEvt:instanceID="xmp.iid:9aea9dc3-d89f-4ce8-a6a7-49817697111b"
+      stEvt:when="2020-09-10T08:51:30-04:00"
+      stEvt:softwareAgent="Adobe Photoshop 21.2 (Macintosh)"
+      stEvt:changed="/"/>
+    </rdf:Seq>
+   </xmpMM:History>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>
+endstreamendobj203 0 obj<</BBox[0.0 595.276 788.031 0.0]/Filter/FlateDecode/Length 1008/Matrix[1.0 0.0 0.0 1.0 0.0 0.0]/Resources<</ExtGState<</GS0 243 0 R>>>>/Subtype/Form>>stream
+H
+
+endstreamendobj204 0 obj<</Length 3881/Subtype/XML/Type/Metadata>>stream
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 6.0-c002 79.164460, 2020/05/12-16:04:17        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+    xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+    xmlns:tiff="http://ns.adobe.com/tiff/1.0/"
+    xmlns:exif="http://ns.adobe.com/exif/1.0/"
+   xmp:CreatorTool="Adobe Photoshop CS6 (Windows)"
+   xmp:CreateDate="2015-03-17T12:00:12-03:00"
+   xmp:ModifyDate="2020-09-10T08:51:30-04:00"
+   xmp:MetadataDate="2020-09-10T08:51:30-04:00"
+   dc:format="application/vnd.adobe.photoshop"
+   photoshop:ColorMode="3"
+   photoshop:ICCProfile="sRGB IEC61966-2.1"
+   xmpMM:InstanceID="xmp.iid:9aea9dc3-d89f-4ce8-a6a7-49817697111b"
+   xmpMM:DocumentID="adobe:docid:photoshop:ab2bdedb-7c8c-ad4d-af45-21d015eb76fa"
+   xmpMM:OriginalDocumentID="xmp.did:83750114B2CCE41191C98E68C0EA668C"
+   tiff:Orientation="1"
+   tiff:XResolution="720000/10000"
+   tiff:YResolution="720000/10000"
+   tiff:ResolutionUnit="2"
+   exif:ColorSpace="1"
+   exif:PixelXDimension="3600"
+   exif:PixelYDimension="2600">
+   <photoshop:DocumentAncestors>
+    <rdf:Bag>
+     <rdf:li>455E28ACC9C204AE3125752AA04B8B7A</rdf:li>
+     <rdf:li>AB3899BFD3C24D4F43F52B03C6B1818A</rdf:li>
+     <rdf:li>uuid:96A7271F1842DE11BB6BE96DBBAA8911</rdf:li>
+     <rdf:li>uuid:B0F4A38D097DE011BBA9E922594FEA2F</rdf:li>
+     <rdf:li>uuid:C555904085FEDE11AACBCA1B87D39566</rdf:li>
+     <rdf:li>xmp.did:01801174072068119109F305646EB57D</rdf:li>
+     <rdf:li>xmp.did:05801174072068118DBBFA659908F426</rdf:li>
+     <rdf:li>xmp.did:0880117407206811871FA0C171ADCD10</rdf:li>
+     <rdf:li>xmp.did:13035426479F11E1A9C08419683F1A74</rdf:li>
+     <rdf:li>xmp.did:1AFFB7E90EFDE111AA9E9A5BC1B6D795</rdf:li>
+     <rdf:li>xmp.did:2ACF258E325DE011A1A5CBD15F1C5D8A</rdf:li>
+     <rdf:li>xmp.did:441724DEC92068118A6DA112E1F1BEAB</rdf:li>
+     <rdf:li>xmp.did:4B03863637E5DE119ED798FC05066ECF</rdf:li>
+     <rdf:li>xmp.did:4C1724DEC92068118A6DA112E1F1BEAB</rdf:li>
+     <rdf:li>xmp.did:50F1CED455206811871F9AE30E7726C7</rdf:li>
+     <rdf:li>xmp.did:74117FE3200711688D4AD6287EFEE6AB</rdf:li>
+     <rdf:li>xmp.did:7AB3740DC2E4DE11950B8D824A6ABDAE</rdf:li>
+     <rdf:li>xmp.did:83750114B2CCE41191C98E68C0EA668C</rdf:li>
+     <rdf:li>xmp.did:8CFA6888BDC9E0118A1894B66E94A91C</rdf:li>
+     <rdf:li>xmp.did:9ABC653B3EEDDE11B5C9E3685736E1A9</rdf:li>
+     <rdf:li>xmp.did:9E7209399238E4118596A951246124BC</rdf:li>
+     <rdf:li>xmp.did:A83415DA5957E311B8E384C6A4F7CDD7</rdf:li>
+     <rdf:li>xmp.did:D837CE8728E6DF11A1C8A497804C2360</rdf:li>
+     <rdf:li>xmp.did:DA3110B904E6DE11BEADD048C79CAD43</rdf:li>
+     <rdf:li>xmp.did:F0EC54C91EF0E011BF318C473C42BF32</rdf:li>
+     <rdf:li>xmp.did:F77F11740720681180839499B4388E9A</rdf:li>
+     <rdf:li>xmp.did:FC50B15F3F26E0119FA090009A4DF53D</rdf:li>
+    </rdf:Bag>
+   </photoshop:DocumentAncestors>
+   <xmpMM:History>
+    <rdf:Seq>
+     <rdf:li
+      stEvt:action="created"
+      stEvt:instanceID="xmp.iid:83750114B2CCE41191C98E68C0EA668C"
+      stEvt:when="2015-03-17T12:00:12-03:00"
+      stEvt:softwareAgent="Adobe Photoshop CS6 (Windows)"/>
+     <rdf:li
+      stEvt:action="saved"
+      stEvt:instanceID="xmp.iid:419E7E1BCDCCE41191C98E68C0EA668C"
+      stEvt:when="2015-03-17T14:43:22-03:00"
+      stEvt:softwareAgent="Adobe Photoshop CS6 (Windows)"
+      stEvt:changed="/"/>
+     <rdf:li
+      stEvt:action="saved"
+      stEvt:instanceID="xmp.iid:9aea9dc3-d89f-4ce8-a6a7-49817697111b"
+      stEvt:when="2020-09-10T08:51:30-04:00"
+      stEvt:softwareAgent="Adobe Photoshop 21.2 (Macintosh)"
+      stEvt:changed="/"/>
+    </rdf:Seq>
+   </xmpMM:History>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>
+endstreamendobj205 0 obj[/Indexed/DeviceRGB 255 20 0 R]endobj206 0 obj[/Indexed/DeviceRGB 244 19 0 R]endobj207 0 obj<</BaseFont/CAZQIS+Helvetica-Bold/Encoding/WinAnsiEncoding/FirstChar 65/FontDescriptor 28 0 R/LastChar 86/Subtype/Type1/Type/Font/Widths[722 0 722 0 667 0 0 722 278 0 0 611 0 0 0 0 0 0 0 611 0 667]>>endobj208 0 obj<</BaseFont/CAZQIS+Rockwell-Bold/Encoding/WinAnsiEncoding/FirstChar 67/FontDescriptor 36 0 R/LastChar 87/Subtype/Type1/Type/Font/Widths[847 0 723 0 0 0 0 0 853 691 0 0 926 0 0 790 0 0 0 0 1073]>>endobj209 0 obj<</BaseFont/CAZQIS+Didot/Encoding/WinAnsiEncoding/FirstChar 68/FontDescriptor 40 0 R/LastChar 84/Subtype/Type1/Type/Font/Widths[815 0 0 0 0 388 0 0 0 0 0 832 0 0 0 0 684]>>endobj210 0 obj<</BaseFont/CAZQIS+CenturyGothicPro-Bold/Encoding/WinAnsiEncoding/FirstChar 32/FontDescriptor 38 0 R/LastChar 89/Subtype/Type1/Type/Font/Widths[280 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 780 0 520 0 840 680 280 0 0 0 0 740 840 0 0 580 0 420 640 0 0 0 620]>>endobj211 0 obj<</BaseFont/CAZQIS+DINNextLTPro-Bold/Encoding/WinAnsiEncoding/FirstChar 32/FontDescriptor 34 0 R/LastChar 88/Subtype/Type1/Type/Font/Widths[236 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 630 565 0 0 0 277 0 0 0 0 655 0 0 0 0 0 557 0 0 0 595]>>endobj212 0 obj<</BaseFont/CAZQIS+GillSans-Bold/Encoding/WinAnsiEncoding/FirstChar 32/FontDescriptor 32 0 R/LastChar 83/Subtype/Type1/Type/Font/Widths[297 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 833 0 0 0 0 0 799 0 376 0 0 633 0 905 0 0 0 0 612]>>endobj213 0 obj<</BaseFont/CAZQIS+BigCaslon-Medium/Encoding/WinAnsiEncoding/FirstChar 32/FontDescriptor 30 0 R/LastChar 83/Subtype/Type1/Type/Font/Widths[210 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 704 745 776 0 0 0 825 0 399 0 0 708 0 875 808 0 0 0 605]>>endobj214 0 obj<</BaseFont/CAZQIS+HelveticaNowDisplay-XBd/Encoding 45 0 R/FirstChar 30/FontDescriptor 47 0 R/LastChar 121/Subtype/Type1/ToUnicode 48 0 R/Type/Font/Widths[594 296 233 244 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 778 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 584 369 601 583 247 0 0 0 0 583 589 602 0 399 0 364 583 557 858 0 551]>>endobj215 0 obj<</Filter/FlateDecode/Length 383>>stream
+H
+
+endstreamendobj216 0 obj<</BaseFont/CAZQIS+HelveticaNowMTMicro-Regular/Encoding/WinAnsiEncoding/FirstChar 32/FontDescriptor 218 0 R/LastChar 201/Subtype/TrueType/ToUnicode 215 0 R/Type/Font/Widths[322 0 0 0 0 0 0 0 0 0 744 0 373 0 363 0 0 0 0 0 0 0 0 0 0 0 363 0 0 0 0 0 0 773 0 847 0 0 0 0 0 0 671 750 664 0 0 922 0 0 758 0 0 0 0 0 0 0 0 0 0 0 0 0 0 675 702 640 702 677 0 0 678 314 0 0 419 1042 678 698 702 0 456 636 510 678 626 932 605 0 0 0 0 0 0 0 0 0 0 0 0 1085 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 717]>>endobj217 0 obj<</Filter/FlateDecode/Length 7393/Length1 14312>>stream
+H
+
+endstreamendobj218 0 obj<</Ascent 1139/CapHeight 733/Descent -360/Flags 32/FontBBox[-856 -360 1588 1139]/FontFamily(Helvetica Now MT Micro)/FontFile2 217 0 R/FontName/CAZQIS+HelveticaNowMTMicro-Regular/FontStretch/Normal/FontWeight 400/ItalicAngle 0/StemV 100/Type/FontDescriptor/XHeight 548>>endobj219 0 obj[/Separation/All/DeviceRGB<</C0[1.0 1.0 1.0]/C1[0.0 0.0 0.0]/Domain[0 1]/FunctionType 2/N 1.0/Range[0.0 1.0 0.0 1.0 0.0 1.0]>>]endobj220 0 obj<</Filter/FlateDecode/Length 976/Subtype/Type1C>>stream
+H
+
+endstreamendobj221 0 obj<</BaseFont/CAZQIS+HelveticaNowText-Regular/Encoding/WinAnsiEncoding/FirstChar 32/FontDescriptor 222 0 R/LastChar 149/Subtype/Type1/ToUnicode 223 0 R/Type/Font/Widths[270 273 0 0 0 1217 0 0 0 0 0 0 300 380 283 0 0 449 640 640 640 640 640 640 640 640 0 0 0 0 0 0 0 716 0 732 713 663 597 807 0 263 0 0 0 0 0 0 650 0 0 668 639 0 0 0 0 684 0 0 0 0 0 0 0 570 601 557 601 579 358 606 594 252 252 563 252 866 594 597 601 0 368 505 357 594 528 772 564 539 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 204 0 0 366]>>endobj222 0 obj<</Ascent 1109/CapHeight 712/CharSet(/space/exclam/percent/comma/hyphen/period/one/two/three/four/five/six/seven/eight/nine/A/C/D/E/F/G/I/P/S/T/Y/a/b/c/d/e/f/g/h/i/j/k/l/m/n/o/p/r/s/t/u/v/w/x/y/quoteright/bullet)/Descent -345/Flags 32/FontBBox[-326 -345 1597 1109]/FontFamily(Helvetica Now Text)/FontFile3 227 0 R/FontName/CAZQIS+HelveticaNowText-Regular/FontStretch/Normal/FontWeight 400/ItalicAngle 0/StemV 92/Type/FontDescriptor/XHeight 516>>endobj223 0 obj<</Filter/FlateDecode/Length 466>>stream
+H
+
+endstreamendobj224 0 obj<</Filter/FlateDecode/Length 292>>stream
+H
+
+endstreamendobj225 0 obj<</BaseFont/CAZQIS+HelveticaNowText-Bold/Encoding/WinAnsiEncoding/FirstChar 46/FontDescriptor 226 0 R/LastChar 201/Subtype/Type1/ToUnicode 224 0 R/Type/Font/Widths[285 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 719 677 0 0 0 0 0 0 0 0 0 575 0 0 746 0 0 677 0 0 0 0 0 0 0 0 0 0 0 0 0 0 557 0 0 0 583 0 0 0 0 0 0 0 0 0 0 0 0 0 540 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 223 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 633]>>endobj226 0 obj<</Ascent 1109/CapHeight 712/CharSet(/period/A/B/L/O/R/a/e/s/quoteright/Eacute)/Descent -350/Flags 32/FontBBox[-313 -350 1580 1109]/FontFamily(Helvetica Now Text)/FontFile3 220 0 R/FontName/CAZQIS+HelveticaNowText-Bold/FontStretch/Normal/FontWeight 700/ItalicAngle 0/StemV 140/Type/FontDescriptor/XHeight 516>>endobj227 0 obj<</Filter/FlateDecode/Length 3245/Subtype/Type1C>>stream
+H
+
+endstreamendobj228 0 obj<</BaseFont/CAZQIS+HelveticaNowMTMicro-Regular/DescendantFonts 91 0 R/Encoding/Identity-H/Subtype/Type0/ToUnicode 92 0 R/Type/Font>>endobj229 0 obj<</BaseFont/CAZQIS+HelveticaNowText-ExtraBold/Encoding/WinAnsiEncoding/FirstChar 32/FontDescriptor 230 0 R/LastChar 118/Subtype/Type1/ToUnicode 232 0 R/Type/Font/Widths[256 0 0 0 0 0 0 0 0 0 0 0 0 0 308 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 738 675 0 0 0 0 0 0 0 868 0 0 668 0 0 692 0 0 0 1004 0 0 0 0 0 0 0 0 0 600 620 581 621 604 380 621 0 282 0 612 282 916 614 611 620 0 422 574 387 614 557]>>endobj230 0 obj<</Ascent 1109/CapHeight 712/CharSet(/space/period/D/E/M/P/S/W/a/b/c/d/e/f/g/i/k/l/m/n/o/p/r/s/t/u/v)/Descent -348/Flags 32/FontBBox[-321 -348 1630 1109]/FontFamily(Helvetica Now Text ExtraBold)/FontFile3 231 0 R/FontName/CAZQIS+HelveticaNowText-ExtraBold/FontStretch/Normal/FontWeight 800/ItalicAngle 0/StemV 172/Type/FontDescriptor/XHeight 516>>endobj231 0 obj<</Filter/FlateDecode/Length 1921/Subtype/Type1C>>stream
+H
+
+E8Cendstreamendobj232 0 obj<</Filter/FlateDecode/Length 355>>stream
+H
+
+endstreamendobj233 0 obj<</Count 21/Kids[234 0 R 235 0 R 236 0 R 237 0 R]/Type/Pages>>endobj234 0 obj<</Count 5/Kids[242 0 R 1 0 R 3 0 R 10 0 R 17 0 R]/Parent 233 0 R/Type/Pages>>endobj235 0 obj<</Count 5/Kids[25 0 R 43 0 R 49 0 R 55 0 R 72 0 R]/Parent 233 0 R/Type/Pages>>endobj236 0 obj<</Count 5/Kids[74 0 R 82 0 R 84 0 R 93 0 R 102 0 R]/Parent 233 0 R/Type/Pages>>endobj237 0 obj<</Count 6/Kids[111 0 R 130 0 R 134 0 R 145 0 R 147 0 R 149 0 R]/Parent 233 0 R/Type/Pages>>endobj238 0 obj<</Length 2482/Subtype/XML/Type/Metadata>>stream
+<?xpacket begin="
+
+" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 6.0-c002 79.164460, 2020/05/12-16:04:17        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+            xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+            xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"
+            xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:pdf="http://ns.adobe.com/pdf/1.3/">
+         <xmp:CreateDate>2020-09-11T12:54:55-04:00</xmp:CreateDate>
+         <xmp:MetadataDate>2020-09-11T12:55:07-04:00</xmp:MetadataDate>
+         <xmp:ModifyDate>2020-09-11T12:55:07-04:00</xmp:ModifyDate>
+         <xmp:CreatorTool>Adobe InDesign 15.1 (Macintosh)</xmp:CreatorTool>
+         <xmpMM:InstanceID>uuid:37933ff0-82a5-524e-a1c4-03e368e38b51</xmpMM:InstanceID>
+         <xmpMM:OriginalDocumentID>xmp.did:7321b06e-b471-4379-9193-1691918cffc8</xmpMM:OriginalDocumentID>
+         <xmpMM:DocumentID>xmp.id:05220f8e-206f-408f-96d6-759ff995faa4</xmpMM:DocumentID>
+         <xmpMM:RenditionClass>proof:pdf</xmpMM:RenditionClass>
+         <xmpMM:DerivedFrom rdf:parseType="Resource">
+            <stRef:instanceID>xmp.iid:54b0cd2b-36ca-42be-81e9-36eb6b80051c</stRef:instanceID>
+            <stRef:documentID>xmp.did:7312687d-139c-403e-b3ef-1da59e2396b5</stRef:documentID>
+            <stRef:originalDocumentID>xmp.did:7321b06e-b471-4379-9193-1691918cffc8</stRef:originalDocumentID>
+            <stRef:renditionClass>default</stRef:renditionClass>
+         </xmpMM:DerivedFrom>
+         <xmpMM:History>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>converted</stEvt:action>
+                  <stEvt:parameters>from application/x-indesign to application/pdf</stEvt:parameters>
+                  <stEvt:softwareAgent>Adobe InDesign 15.1 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+                  <stEvt:when>2020-09-11T12:54:55-04:00</stEvt:when>
+               </rdf:li>
+            </rdf:Seq>
+         </xmpMM:History>
+         <dc:format>application/pdf</dc:format>
+         <pdf:Producer>Adobe PDF Library 15.0</pdf:Producer>
+         <pdf:Trapped>False</pdf:Trapped>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+<?xpacket end="r"?>endstreamendobj239 0 obj<</CreationDate(D:20200911125455-04'00')/Creator(Adobe InDesign 15.1 \(Macintosh\))/ModDate(D:20200911125507-04'00')/Producer(Adobe PDF Library 15.0)/Trapped/False>>endobjxref
+0 240
+0000000000 65535 f
+0000422009 00000 n
+0000422986 00000 n
+0000423732 00000 n
+0000424761 00000 n
+0000424784 00000 n
+0000424919 00000 n
+0000425699 00000 n
+0001126078 00000 n
+0001126148 00000 n
+0001126207 00000 n
+0001127242 00000 n
+0001127267 00000 n
+0001127404 00000 n
+0001128272 00000 n
+0001415055 00000 n
+0001415126 00000 n
+0001415186 00000 n
+0001416236 00000 n
+0001416759 00000 n
+0001417544 00000 n
+0001418362 00000 n
+0001452563 00000 n
+0001525505 00000 n
+0001768648 00000 n
+0001857693 00000 n
+0001858777 00000 n
+0001865540 00000 n
+0001866089 00000 n
+0001866374 00000 n
+0001868875 00000 n
+0001869147 00000 n
+0001869874 00000 n
+0001870158 00000 n
+0001871146 00000 n
+0001871411 00000 n
+0001872273 00000 n
+0001872553 00000 n
+0001873535 00000 n
+0001873814 00000 n
+0001874576 00000 n
+0001874819 00000 n
+0001908860 00000 n
+0001908897 00000 n
+0001909864 00000 n
+0001910215 00000 n
+0001910309 00000 n
+0001911753 00000 n
+0001912106 00000 n
+0001912491 00000 n
+0001913473 00000 n
+0001913939 00000 n
+0001915646 00000 n
+0002016422 00000 n
+0002018372 00000 n
+0002241132 00000 n
+0002242171 00000 n
+0002242722 00000 n
+0002244429 00000 n
+0002297603 00000 n
+0002298171 00000 n
+0002298739 00000 n
+0002303501 00000 n
+0002523519 00000 n
+0002524087 00000 n
+0002524655 00000 n
+0002529417 00000 n
+0002722749 00000 n
+0002723317 00000 n
+0002723885 00000 n
+0002728647 00000 n
+0002890438 00000 n
+0002890498 00000 n
+0002891491 00000 n
+0002892183 00000 n
+0002893244 00000 n
+0002894355 00000 n
+0002894469 00000 n
+0002899532 00000 n
+0002904595 00000 n
+0002924270 00000 n
+0004342565 00000 n
+0004342625 00000 n
+0004343579 00000 n
+0004343858 00000 n
+0004344864 00000 n
+0004345308 00000 n
+0004345377 00000 n
+0004345460 00000 n
+0004349480 00000 n
+0004349778 00000 n
+0004349958 00000 n
+0004349983 00000 n
+0004350280 00000 n
+0004351303 00000 n
+0004351999 00000 n
+0004354997 00000 n
+0004726676 00000 n
+0004727245 00000 n
+0004727814 00000 n
+0004734951 00000 n
+0005037707 00000 n
+0005037768 00000 n
+0005038808 00000 n
+0005039513 00000 n
+0005042512 00000 n
+0005413609 00000 n
+0005414178 00000 n
+0005414747 00000 n
+0005420278 00000 n
+0005594118 00000 n
+0005594179 00000 n
+0005595253 00000 n
+0005595916 00000 n
+0005598915 00000 n
+0005860878 00000 n
+0005861448 00000 n
+0005862018 00000 n
+0005869157 00000 n
+0006172322 00000 n
+0006174030 00000 n
+0006210281 00000 n
+0006212232 00000 n
+0006295740 00000 n
+0006297445 00000 n
+0006337355 00000 n
+0006339061 00000 n
+0006346485 00000 n
+0006348192 00000 n
+0006454630 00000 n
+0006454691 00000 n
+0006455679 00000 n
+0006456159 00000 n
+0006458352 00000 n
+0006873093 00000 n
+0006874094 00000 n
+0006874506 00000 n
+0006878447 00000 n
+0006882388 00000 n
+0006896897 00000 n
+0006982164 00000 n
+0006982733 00000 n
+0006983302 00000 n
+0006988285 00000 n
+0007077408 00000 n
+0007077469 00000 n
+0007078425 00000 n
+0007078689 00000 n
+0007079698 00000 n
+0007085536 00000 n
+0007086681 00000 n
+0007086716 00000 n
+0007086855 00000 n
+0007086991 00000 n
+0007149231 00000 n
+0007149355 00000 n
+0007149432 00000 n
+0007149767 00000 n
+0007149844 00000 n
+0007150180 00000 n
+0007150257 00000 n
+0007150593 00000 n
+0007150670 00000 n
+0007151005 00000 n
+0007151082 00000 n
+0007151417 00000 n
+0007151494 00000 n
+0007151830 00000 n
+0007151907 00000 n
+0007152242 00000 n
+0007152319 00000 n
+0007152654 00000 n
+0007152731 00000 n
+0007153067 00000 n
+0007153144 00000 n
+0007153480 00000 n
+0007153557 00000 n
+0007153892 00000 n
+0007153969 00000 n
+0007154304 00000 n
+0007154381 00000 n
+0007154718 00000 n
+0007154791 00000 n
+0007154863 00000 n
+0007154924 00000 n
+0007155549 00000 n
+0007159668 00000 n
+0007159763 00000 n
+0007159875 00000 n
+0007160314 00000 n
+0007160596 00000 n
+0007161053 00000 n
+0007161344 00000 n
+0007169988 00000 n
+0007170228 00000 n
+0007171421 00000 n
+0007172199 00000 n
+0007172873 00000 n
+0007173591 00000 n
+0007174119 00000 n
+0007181513 00000 n
+0007251699 00000 n
+0007266208 00000 n
+0007270167 00000 n
+0007271361 00000 n
+0007275320 00000 n
+0007275369 00000 n
+0007275418 00000 n
+0007275635 00000 n
+0007275848 00000 n
+0007276038 00000 n
+0007276342 00000 n
+0007276630 00000 n
+0007276904 00000 n
+0007277187 00000 n
+0007277584 00000 n
+0007278037 00000 n
+0007278638 00000 n
+0007286116 00000 n
+0007286403 00000 n
+0007286548 00000 n
+0007287609 00000 n
+0007288137 00000 n
+0007288600 00000 n
+0007289136 00000 n
+0007289498 00000 n
+0007290016 00000 n
+0007290344 00000 n
+0007293675 00000 n
+0007293825 00000 n
+0007294243 00000 n
+0007294608 00000 n
+0007296615 00000 n
+0007297040 00000 n
+0007297120 00000 n
+0007297216 00000 n
+0007297313 00000 n
+0007297411 00000 n
+0007297521 00000 n
+0007300081 00000 n
+trailer<</Size 240/ID[<8AF4614AD9284B7D8B8DA2EB213DA1F3><E33A4CB1133741A899C557A9B9FB8D16>]>>startxref116%%EOF3 0 obj<</Annots 4 0 R/ArtBox[0.0 0.0 788.031 595.276]/BleedBox[0.0 0.0 788.031 595.276]/Contents 264 0 R/CropBox[0.0 0.0 788.031 595.276]/Group 9 0 R/LastModified(D:20200922102845+01'00')/MediaBox[0.0 0.0 788.031 595.276]/Parent 234 0 R/PieceInfo<</InDesign<</DocumentID(
+
+8)/PageUIDList<</0 205>>/PageWidthList<</0 788.031>>>>>>/Resources<</ExtGState<</GS0 243 0 R/GS1 187 0 R>>/Font<</T1_0 245 0 R/T1_1 195 0 R/TT0 197 0 R/TT1 188 0 R>>/ProcSet[/PDF/Text/ImageC]/XObject<</Fm0 193 0 R/Fm1 203 0 R/Im0 200 0 R/Im1 7 0 R>>>>/Rotate 0/TrimBox[0.0 0.0 788.031 595.276]/Type/Page>>endobj10 0 obj<</Annots 11 0 R/ArtBox[0.0 0.0 788.031 595.276]/BleedBox[0.0 0.0 788.031 595.276]/Contents 263 0 R/CropBox[0.0 0.0 788.031 595.276]/Group 16 0 R/LastModified(D:20200922102845+01'00')/MediaBox[0.0 0.0 788.031 595.276]/Parent 234 0 R/PieceInfo<</InDesign<</DocumentID(
+
+8)/PageUIDList<</0 9179>>/PageWidthList<</0 788.031>>>>>>/Resources<</ExtGState<</GS0 243 0 R/GS1 187 0 R>>/Font<</T1_0 245 0 R/T1_1 195 0 R/TT0 197 0 R/TT1 188 0 R>>/ProcSet[/PDF/Text/ImageC]/XObject<</Fm0 193 0 R/Fm1 203 0 R/Im0 200 0 R/Im1 14 0 R>>>>/Rotate 0/TrimBox[0.0 0.0 788.031 595.276]/Type/Page>>endobj25 0 obj<</ArtBox[0.0 0.0 788.031 595.276]/BleedBox[0.0 0.0 788.031 595.276]/Contents 255 0 R/CropBox[0.0 0.0 788.031 595.276]/LastModified(D:20200922102911+01'00')/MediaBox[0.0 0.0 788.031 595.276]/Parent 235 0 R/PieceInfo<</InDesign<</DocumentID(
+
+8)/PageUIDList<</0 10526>>/PageWidthList<</0 788.031>>>>>>/Resources<</ExtGState<</GS0 243 0 R/GS1 187 0 R>>/Font<</C0_0 253 0 R/T1_0 245 0 R/T1_1 195 0 R/T1_2 207 0 R/T1_3 213 0 R/T1_4 212 0 R/T1_5 211 0 R/T1_6 208 0 R/T1_7 210 0 R/T1_8 209 0 R/TT0 197 0 R>>/ProcSet[/PDF/Text]/Properties<</MC0 42 0 R>>/XObject<</Fm0 193 0 R/Fm1 203 0 R>>>>/Rotate 0/TrimBox[0.0 0.0 788.031 595.276]/Type/Page>>endobj193 0 obj<</BBox[0.0 595.276 788.031 0.0]/Filter/FlateDecode/Length 64/Matrix[1.0 0.0 0.0 1.0 0.0 0.0]/Resources<</ExtGState<</GS0 243 0 R>>>>/Subtype/Form>>stream
+H
+
+endstreamendobj203 0 obj<</BBox[0.0 595.276 788.031 0.0]/Filter/FlateDecode/Length 1013/Matrix[1.0 0.0 0.0 1.0 0.0 0.0]/Resources<</ExtGState<</GS0 243 0 R>>>>/Subtype/Form>>stream
+H
+
+endstreamendobj238 0 obj<</Length 4530/Subtype/XML/Type/Metadata>>stream
+<?xpacket begin="
+
+" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c017 91.164464, 2020/06/15-10:20:05        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+            xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+            xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"
+            xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:pdf="http://ns.adobe.com/pdf/1.3/">
+         <xmp:CreateDate>2020-09-11T12:54:55-04:00</xmp:CreateDate>
+         <xmp:MetadataDate>2020-09-22T10:29:16+01:00</xmp:MetadataDate>
+         <xmp:ModifyDate>2020-09-22T10:29:16+01:00</xmp:ModifyDate>
+         <xmp:CreatorTool>Adobe InDesign 15.1 (Macintosh)</xmp:CreatorTool>
+         <xmpMM:InstanceID>uuid:911450af-b055-984a-aab1-cf297c860324</xmpMM:InstanceID>
+         <xmpMM:OriginalDocumentID>xmp.did:7321b06e-b471-4379-9193-1691918cffc8</xmpMM:OriginalDocumentID>
+         <xmpMM:DocumentID>xmp.id:05220f8e-206f-408f-96d6-759ff995faa4</xmpMM:DocumentID>
+         <xmpMM:RenditionClass>proof:pdf</xmpMM:RenditionClass>
+         <xmpMM:DerivedFrom rdf:parseType="Resource">
+            <stRef:instanceID>xmp.iid:54b0cd2b-36ca-42be-81e9-36eb6b80051c</stRef:instanceID>
+            <stRef:documentID>xmp.did:7312687d-139c-403e-b3ef-1da59e2396b5</stRef:documentID>
+            <stRef:originalDocumentID>xmp.did:7321b06e-b471-4379-9193-1691918cffc8</stRef:originalDocumentID>
+            <stRef:renditionClass>default</stRef:renditionClass>
+         </xmpMM:DerivedFrom>
+         <xmpMM:History>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>converted</stEvt:action>
+                  <stEvt:parameters>from application/x-indesign to application/pdf</stEvt:parameters>
+                  <stEvt:softwareAgent>Adobe InDesign 15.1 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+                  <stEvt:when>2020-09-11T12:54:55-04:00</stEvt:when>
+               </rdf:li>
+            </rdf:Seq>
+         </xmpMM:History>
+         <dc:format>application/pdf</dc:format>
+         <pdf:Producer>Adobe PDF Library 15.0</pdf:Producer>
+         <pdf:Trapped>False</pdf:Trapped>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?>endstreamendobj239 0 obj<</CreationDate(D:20200911125455-04'00')/Creator(Adobe InDesign 15.1 \(Macintosh\))/ModDate(D:20200922102916+01'00')/Producer(Adobe PDF Library 15.0)/Trapped/False>>endobj241 0 obj<</AcroForm 254 0 R/Lang(en-US)/Metadata 238 0 R/Pages 233 0 R/Type/Catalog/ViewerPreferences<</Direction/L2R>>>>endobj253 0 obj<</BaseFont/ICVQJG+HelveticaNowMTText-Regular/DescendantFonts 256 0 R/Encoding/Identity-H/Subtype/Type0/ToUnicode 257 0 R/Type/Font>>endobj254 0 obj<</DA(/Helv 0 Tf 0 g )/DR<</Encoding<</PDFDocEncoding 267 0 R>>/Font<</Helv 265 0 R/ZaDb 266 0 R>>>>/Fields[]>>endobj255 0 obj<</Filter/FlateDecode/Length 6880>>stream
+H
+
+Nmendstreamendobj256 0 obj[258 0 R]endobj257 0 obj<</Filter/FlateDecode/Length 242>>stream
+H
+
+Ku4endstreamendobj258 0 obj<</BaseFont/ICVQJG+HelveticaNowMTText-Regular/CIDSystemInfo 259 0 R/DW 1000/FontDescriptor 260 0 R/Subtype/CIDFontType0/Type/Font/W[0[733 0]2 3 270 4 14 716 15 16 1088 17[713]18 23 732 24[713 733 713 733]28 37 658 38[597]39 44 807 45 47 733 48[263 805]50 58 263 59 60 547 61 62 714 63 67 589 68[609 875]70 75 736 76 86 801 87[1215]88 89 647 90[801]91 94 674 95 100 668 101[696 802]103 107 649 108 118 720 119[679]120 124 955 125[682]126 130 684 131 134 675 135 145 570 146 147 919 148[601]149 154 557 155[601 597 736 624]159 169 579 170[358]171 176 606 177[594 617 594]180 187 252 188[504]189 194 252 195 197 556 198 199 294 200[415 294 425 316 866]205 206 594 207[778]208 211 594 212 222 597 223[984]224 226 601 227 230 368 231 236 504 237[605]238 242 347 243 253 594 254[528]255 259 772 260[564]261 265 539 266 269 531 270[610 652 488 461]274 275 488 276[308 432 716 820 594 672 493 488 291 640 449]287 295 640 296 315 1136 316 335 1078 336[459 300 431 445 460 446 448 391 456 448 459 300 431 445 460 446 448 391 456 448 459 300 431 445 460 446 448 391 456 448 459 300 431 445 460 446 448 391 456 448 355 981 1005 1136 975 1090 1016 1147 1131 1166 988 1094 1011 1126 1117 1017]392 402 640 403[283 300 283 303 839]408 409 273 410 411 609 412[283 366 543]415 416 609 417[673]418 419 468 420 423 380 424 425 285 426 427 339 428 429 373 430 431 315 432 433 285 434 435 307 436 437 328 438 439 307 440 441 380 442[535 829 380 500 380 535 829 380 300 474]452 453 381 454 455 204 456 457 690 458 459 410 460[440 241]462 463 690 464 465 410 466[337]467 468 285 469 470 353 471 472 318 473[172 174 337]476 477 285 478 479 353 480 481 318 482[172 174 337]485 486 353 487 488 318 489[172 174 337]492 493 353 494 495 318 496[172 174 270 162 0]501 534 640 535[780 640 820 716 733 679 640 594 588 1055 1470]546 549 517 550 551 527 552 553 640 554[812 726 856 726 812 726 856 726 1177 812]564 565 1136 566[551]567 568 1078 569[985 1080 783 590 629 881 617 880 989 1167 446]580 581 262 582[497]583 584 628 585[1197 934 463 510 429 527]591 592 517 593[463 510 429 527]597 598 517 599[463 510 429 463 510 429 500]606 629 0 630 643 500 644 663 0]>>endobj259 0 obj<</Ordering(Identity)/Registry(Adobe)/Supplement 0>>endobj260 0 obj<</Ascent 1036/CIDSet 261 0 R/CapHeight 712/Descent -328/Flags 4/FontBBox[-826 -328 1385 1036]/FontFamily(Helvetica Now MT Text)/FontFile3 262 0 R/FontName/ICVQJG+HelveticaNowMTText-Regular/FontStretch/Normal/FontWeight 400/ItalicAngle 0/StemV 92/Type/FontDescriptor/XHeight 516>>endobj261 0 obj<</Filter/FlateDecode/Length 18>>stream
+H
+
+endstreamendobj262 0 obj<</Filter/FlateDecode/Length 413/Subtype/CIDFontType0C>>stream
+H
+
+endstreamendobj263 0 obj<</Filter/FlateDecode/Length 803>>stream
+H
+
+endstreamendobj264 0 obj<</Filter/FlateDecode/Length 717>>stream
+H
+
+endstreamendobj265 0 obj<</BaseFont/Helvetica/Encoding 267 0 R/Name/Helv/Subtype/Type1/Type/Font>>endobj266 0 obj<</BaseFont/ZapfDingbats/Name/ZaDb/Subtype/Type1/Type/Font>>endobj267 0 obj<</Differences[24/breve/caron/circumflex/dotaccent/hungarumlaut/ogonek/ring/tilde 39/quotesingle 96/grave 128/bullet/dagger/daggerdbl/ellipsis/emdash/endash/florin/fraction/guilsinglleft/guilsinglright/minus/perthousand/quotedblbase/quotedblleft/quotedblright/quoteleft/quoteright/quotesinglbase/trademark/fi/fl/Lslash/OE/Scaron/Ydieresis/Zcaron/dotlessi/lslash/oe/scaron/zcaron 160/Euro 164/currency 166/brokenbar 168/dieresis/copyright/ordfeminine 172/logicalnot/.notdef/registered/macron/degree/plusminus/twosuperior/threesuperior/acute/mu 183/periodcentered/cedilla/onesuperior/ordmasculine 188/onequarter/onehalf/threequarters 192/Agrave/Aacute/Acircumflex/Atilde/Adieresis/Aring/AE/Ccedilla/Egrave/Eacute/Ecircumflex/Edieresis/Igrave/Iacute/Icircumflex/Idieresis/Eth/Ntilde/Ograve/Oacute/Ocircumflex/Otilde/Odieresis/multiply/Oslash/Ugrave/Uacute/Ucircumflex/Udieresis/Yacute/Thorn/germandbls/agrave/aacute/acircumflex/atilde/adieresis/aring/ae/ccedilla/egrave/eacute/ecircumflex/edieresis/igrave/iacute/icircumflex/idieresis/eth/ntilde/ograve/oacute/ocircumflex/otilde/odieresis/divide/oslash/ugrave/uacute/ucircumflex/udieresis/yacute/thorn/ydieresis]/Type/Encoding>>endobjxref
+0 1
+0000000000 65535 f
+3 1
+0007305192 00000 n
+10 1
+0007306045 00000 n
+25 1
+0007306903 00000 n
+193 1
+0007307823 00000 n
+203 1
+0007308071 00000 n
+238 2
+0007309270 00000 n
+0007313878 00000 n
+241 1
+0007314061 00000 n
+253 15
+0007314192 00000 n
+0007314343 00000 n
+0007314472 00000 n
+0007321423 00000 n
+0007321450 00000 n
+0007321762 00000 n
+0007323911 00000 n
+0007323981 00000 n
+0007324279 00000 n
+0007324366 00000 n
+0007324871 00000 n
+0007325744 00000 n
+0007326531 00000 n
+0007326623 00000 n
+0007326701 00000 n
+trailer<</Size 268/Root 241 0 R/Info 239 0 R/ID[<8AF4614AD9284B7D8B8DA2EB213DA1F3><2DEB92DD882944CDA7CA863F0B149C5D>]/Prev 116>>startxref7327894%%EOF
