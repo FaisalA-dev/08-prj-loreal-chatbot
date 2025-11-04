@@ -53,60 +53,88 @@ chatForm.addEventListener("submit", async (e) => {
   // show thinking status
   showStatus("Thinking... ✨");
 
-  // Ensure an API key is available (local dev only). Prefer a server proxy in production.
+  // Prefer calling a Cloudflare Worker (recommended). If not set, fall back to client-side key for local testing.
+  const workerUrl = window.OPENAI_WORKER_URL;
   const key = window.OPENAI_API_KEY;
-  if (!key) {
-    // remove status
+
+  if (!workerUrl && !key) {
     const s = document.getElementById("_status_msg");
     if (s) s.remove();
     appendMessage(
       "ai",
-      "No API key found. For local testing copy `secrets.example.js` to `secrets.js` and add your key, or use a server-side proxy."
+      "No backend configured. For secure use, deploy the provided Cloudflare Worker and set `window.OPENAI_WORKER_URL` to its URL in `secrets.js` (or use a server proxy). For quick local tests you can add `window.OPENAI_API_KEY` to `secrets.js` (not for public sites)."
     );
     return;
   }
 
   try {
-    const resp = await fetch("https://api.openai.com/v1/chat/completions", {
-      method: "POST",
-      headers: {
-        "Content-Type": "application/json",
-        Authorization: `Bearer ${key}`,
-      },
-      body: JSON.stringify({
-        model: "gpt-4o",
-        messages: [
-          { role: "system", content: SYSTEM_PROMPT },
-          { role: "user", content: text },
-        ],
-        max_tokens: 800,
-        temperature: 0.7,
-      }),
-    });
+    let assistant = null;
 
-    if (!resp.ok) {
-      const errText = await resp.text();
-      throw new Error(`API error ${resp.status}: ${errText}`);
+    if (workerUrl) {
+      // Call the Cloudflare Worker which holds the secret server-side
+      const resp = await fetch(workerUrl, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          message: text,
+          model: "gpt-4o",
+          max_tokens: 800,
+          temperature: 0.7,
+        }),
+      });
+
+      if (!resp.ok) {
+        const errText = await resp.text();
+        throw new Error(`Worker error ${resp.status}: ${errText}`);
+      }
+
+      const data = await resp.json();
+      assistant =
+        data?.reply ??
+        data?.choices?.[0]?.message?.content ??
+        data?.choices?.[0]?.text ??
+        null;
+    } else {
+      // Local key fallback (quick testing only)
+      const resp = await fetch("https://api.openai.com/v1/chat/completions", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+          Authorization: `Bearer ${key}`,
+        },
+        body: JSON.stringify({
+          model: "gpt-4o",
+          messages: [
+            { role: "system", content: SYSTEM_PROMPT },
+            { role: "user", content: text },
+          ],
+          max_tokens: 800,
+          temperature: 0.7,
+        }),
+      });
+
+      if (!resp.ok) {
+        const errText = await resp.text();
+        throw new Error(`API error ${resp.status}: ${errText}`);
+      }
+
+      const data = await resp.json();
+      assistant =
+        data?.choices?.[0]?.message?.content ??
+        data?.choices?.[0]?.text ??
+        null;
     }
 
-    const data = await resp.json();
-    // OpenAI responses for chat completions put the assistant text at data.choices[0].message.content
-    const assistant =
-      data?.choices?.[0]?.message?.content ??
-      data?.choices?.[0]?.text ??
-      "(no response)";
-
-    // remove status
     const s = document.getElementById("_status_msg");
     if (s) s.remove();
 
-    appendMessage("ai", assistant);
+    appendMessage("ai", assistant ?? "(no response)");
   } catch (err) {
     const s = document.getElementById("_status_msg");
     if (s) s.remove();
     appendMessage(
       "ai",
-      `Request failed: ${err.message}. Consider using a server-side proxy instead of a client key.`
+      `Request failed: ${err.message}. Consider deploying the Cloudflare Worker or using a server-side proxy.`
     );
     console.error(err);
   }

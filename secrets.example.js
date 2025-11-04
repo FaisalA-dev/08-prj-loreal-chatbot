@@ -17,4 +17,8 @@
 */
 
 // Placeholder for local development only — replace with your own key when used locally.
-window.OPENAI_API_KEY = 'sk-REPLACE-WITH-YOUR-KEY';
+window.OPENAI_API_KEY = "sk-REPLACE-WITH-YOUR-KEY";
+
+// Optional: URL of your deployed Cloudflare Worker (recommended for production).
+// Example: window.OPENAI_WORKER_URL = 'https://your-worker-subdomain.workers.dev';
+window.OPENAI_WORKER_URL = "";
